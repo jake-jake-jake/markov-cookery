@@ -87,3 +87,5 @@ ENV/
 # Markov Cookery specifics
 # Don't store data in repo
 texts/
+markovcooking.sublime-project
+markovcooking.sublime-workspace
