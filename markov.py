@@ -9,15 +9,33 @@ class successor_dict(dict):
     def __init__(self):
         self.count = 0
         self.successors = self.keys()
+        self.weighted = False
+        self.out_list = []
+
+    def _increment(self):
+        ''' Increment count and set self.weighted to False.''' 
+        self.count += 1
+        self.weighted = False
+        return self
+
+    def _make_weighted_out_list(self):
+        ''' Generate list of successors.'''
+        self.weighted = True
+        self.out_list = []
+        for word, count in self.items():
+            for _ in range(count):
+                self.out_list.append(word)
+        assert len(self.out_list) == self.count
+        return self
 
     def choose_successor(self):
         if self.count == len(self.successors):
             return random.choice([successor
                                   for successor in self.successors])
         else:
-            print('HEY JAKE IMPLEMENT WEIGHTED CHOICE MKAY?')
-            return random.choice([successor
-                                  for successor in self.successors])
+            if not self.weighted:
+                self._make_weighted_out_list()
+            return self.out_list[random.randrange(self.count)]
 
 class WordChainer:
     ''' Class for constructing a Markov chain from text files. '''
