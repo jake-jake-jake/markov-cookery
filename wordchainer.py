@@ -103,10 +103,8 @@ class WordChainer:
             words = words[:-1]
         return words + '.'
 
-    def sentence(self, length=None, start_word=None):
+    def sentence(self, start_word=None):
         ''' Return a sentence of length, with start_word. '''
-        if not length:
-            length = random.randrange(12, 24)
         if not start_word:
             start_word = random.choice([word for word in self.links.keys()])
         try:
@@ -116,17 +114,15 @@ class WordChainer:
             return None
         sent = []
         sent.append(start_word.capitalize())
-        for _ in range(length):
-            if next_word[-1] == '.' and next_word[:-1] in self.links:
-                next_word = next_word[:-1]
-            elif next_word[-1] == '.' and not next_word[:-1] in self.links:
-                print('shitbox')
+        while not next_word[-1] == '.':
+            if next_word == 'To':
+                sent[-1] = sent[-1] + '.'
+                break
             sent.append(next_word)
             next_word = self.links[next_word].choose_successor()
-        sent = ' '.join(sent)
-        if sent[-1] in string.punctuation:
-            sent = sent[:-1]
-        return sent + '.'
+        else:
+            sent.append(next_word)
+        return ' '.join(sent)
 
 
 chain = WordChainer()
@@ -138,3 +134,7 @@ def main(debug=True):
 
 if __name__ == '__main__':
     main()
+
+title_first_words = ['A', 'Adaga', 'Admirable', 'Ale', 'Almond', 'Almonds', 'An', 'And', 'Another', 'Apricock', 'April', 'Aqua', 'Bacon', 'Blagraves', 'Books', 'Brevia', 'Buckingham', 'Butter', 'Cake', 'Cakes', 'Candied', 'Candy', 'Carp', 'Cherry', 'Chicory', 'Chips', 'Christopher', 'Clarret', 'Clary', 'Clavis', 'Clear', 'Collops', 'Compote', 'Conserve', 'Conserves', 'Constantine', 'Contra', 'Cordial', 'Country', 'Courteous', 'Currants', 'De', 'Doctor', 'Edward', 'Elegant', 'England', 'Englands', 'Excellent', 'Fellow', 'Fons', 'Foord', 'For', 'Frankincense', 'GREAT', 'German', 'Goosberry', 'Gregory', 'Grocers', 'Harrison', 'Her', 'Hermes', 'Hermitage', 'Hollanders', 'How', 'Hypocras', 'Imperial', 'Indiculis', 'Italian', 'J', 'John', 'Joseph', 'King', 'Licorice', 'Lisbon', 'London', 'March', 'Marigold', 'Marmaduke', 'Marmalade', 'Master', 'Montague', 'Mountain', 'Nottingham', 'October', 'Of', 'Orange', 'Oyle', 'Philip', 'Plutarch', 'Poppy', 'Powder', 'Praxis', 'Purslaine', 'Putney', 'Queen', 'Queens', 'Quinces', 'Reader', 'Right', 'Robert', 'Rosa', 'Rose', 'Roses', 'Sage', 'Sea', 'September', 'Seth', 'Shephards', 'Shrubbery', 'Sir', 'Spanish', 'Sugar', 'Sweet', 'Syrupe', 'THE', 'The', 'There', 'This', 'To', 'Tomaso', 'Tripe', 'Triumphs', 'Unguentum', 'Very', 'Warburton', 'Water', 'What', 'White', 'With', 'You', 'Zest', 'and', 'cum', 'daughter', 'publici', 'wastel']
+title = WordChainer()
+title.add_words('titles.txt')
