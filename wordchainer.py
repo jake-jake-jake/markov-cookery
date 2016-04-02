@@ -127,7 +127,7 @@ class WordChainer:
 
 chain = WordChainer()
 def main(debug=True):
-    texts = listdir('texts')
+    texts = listdir(path.join('texts', '1400s'))
     for text in texts:
         chain.add_words(path.join('texts', text))
     print('Words in chain:', len(chain.links))
