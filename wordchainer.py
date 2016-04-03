@@ -125,16 +125,17 @@ class WordChainer:
         return ' '.join(sent)
 
 
-chain = WordChainer()
+recipes = WordChainer()
+title = WordChainer()
+
 def main(debug=True):
-    texts = listdir(path.join('texts', '1400s'))
-    for text in texts:
-        chain.add_words(path.join('texts', text))
-    print('Words in chain:', len(chain.links))
+    p = path.join('texts', '1400s')
+    title.add_words(path.join(p, 'forme_of_cury_STRIPPED_recipe_titles.txt'))
+    recipes.add_words(path.join(p, 'forme_of_cury_STRIPPED.txt'))
+
 
 if __name__ == '__main__':
     main()
 
-title_first_words = ['A', 'Adaga', 'Admirable', 'Ale', 'Almond', 'Almonds', 'An', 'And', 'Another', 'Apricock', 'April', 'Aqua', 'Bacon', 'Blagraves', 'Books', 'Brevia', 'Buckingham', 'Butter', 'Cake', 'Cakes', 'Candied', 'Candy', 'Carp', 'Cherry', 'Chicory', 'Chips', 'Christopher', 'Clarret', 'Clary', 'Clavis', 'Clear', 'Collops', 'Compote', 'Conserve', 'Conserves', 'Constantine', 'Contra', 'Cordial', 'Country', 'Courteous', 'Currants', 'De', 'Doctor', 'Edward', 'Elegant', 'England', 'Englands', 'Excellent', 'Fellow', 'Fons', 'Foord', 'For', 'Frankincense', 'GREAT', 'German', 'Goosberry', 'Gregory', 'Grocers', 'Harrison', 'Her', 'Hermes', 'Hermitage', 'Hollanders', 'How', 'Hypocras', 'Imperial', 'Indiculis', 'Italian', 'J', 'John', 'Joseph', 'King', 'Licorice', 'Lisbon', 'London', 'March', 'Marigold', 'Marmaduke', 'Marmalade', 'Master', 'Montague', 'Mountain', 'Nottingham', 'October', 'Of', 'Orange', 'Oyle', 'Philip', 'Plutarch', 'Poppy', 'Powder', 'Praxis', 'Purslaine', 'Putney', 'Queen', 'Queens', 'Quinces', 'Reader', 'Right', 'Robert', 'Rosa', 'Rose', 'Roses', 'Sage', 'Sea', 'September', 'Seth', 'Shephards', 'Shrubbery', 'Sir', 'Spanish', 'Sugar', 'Sweet', 'Syrupe', 'THE', 'The', 'There', 'This', 'To', 'Tomaso', 'Tripe', 'Triumphs', 'Unguentum', 'Very', 'Warburton', 'Water', 'What', 'White', 'With', 'You', 'Zest', 'and', 'cum', 'daughter', 'publici', 'wastel']
-title = WordChainer()
-title.add_words('titles.txt')
+print(title.words(5))
+print(recipes.sentence())
