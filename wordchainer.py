@@ -129,9 +129,10 @@ recipes = WordChainer()
 title = WordChainer()
 
 def main(debug=True):
-    p = path.join('texts', '1400s')
-    title.add_words(path.join(p, 'forme_of_cury_STRIPPED_recipe_titles.txt'))
-    recipes.add_words(path.join(p, 'forme_of_cury_STRIPPED.txt'))
+    p = path.join('texts', '1600s')
+    recipes.add_words(path.join(p, 'accomplisht_cook_STRIPPED.txt'))
+    recipes.add_words(path.join(p, 'closet_of_sir_digby_STRIPPED.txt'))
+    title.add_words(path.join(p, '1600s_titles.txt'))
 
 
 if __name__ == '__main__':
