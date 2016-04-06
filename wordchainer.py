@@ -78,6 +78,14 @@ class WordChainer:
             self.links[word]._increment()
             return self
 
+    def _get_start_word(self):
+        ''' Choose word at random; if it is a sentence ender, rechoose.'''
+        word = random.choice([word for word in self.links.keys()])
+        if not word[-1] == '.':
+            return word
+        else:
+            return self._get_start_word()
+
     def add_words(self, filename):
         ''' Make weighted Markov chain from text file.'''
         file_words = self._open_file(filename)
@@ -106,7 +114,7 @@ class WordChainer:
     def sentence(self, start_word=None):
         ''' Return a sentence of length, with start_word. '''
         if not start_word:
-            start_word = random.choice([word for word in self.links.keys()])
+            start_word = self._get_start_word()
         try:
             next_word = self.links[start_word].choose_successor()
         except KeyError:
@@ -132,6 +140,7 @@ def main(debug=True):
     p = path.join('texts', '1600s')
     recipes.add_words(path.join(p, 'accomplisht_cook_STRIPPED.txt'))
     recipes.add_words(path.join(p, 'closet_of_sir_digby_STRIPPED.txt'))
+    recipes.add_words(path.join(p, 'eales_receipts_STRIPPED.txt'))
     title.add_words(path.join(p, '1600s_titles.txt'))
 
 
