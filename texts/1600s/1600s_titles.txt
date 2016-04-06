@@ -25,12 +25,13 @@ The First Course.
 The Second Course.
 The Third Course.
 The Carving of Fish.
-Gurnet,
-Sole,
-Carp Bream,
-Salmon,
+Gurnet.
+Sole.
+Carp Bream.
+Salmon.
 Sauces for Fish.
-Bills of FThe first Course.
+Bills of Fare.
+The first Course.
 A second Course.
 To make an Olio Podrida.
 Marrow Pies.
@@ -39,7 +40,7 @@ Other Marrow Pies.
 To make a Bisk divers ways.
 A Bisk otherways.
 To make another curious boil'd meat, much like a Bisk.
-Entre de Table,
+Entre de Table.
 Another French boil'd meat of Pine-molet.
 To boil a Chine of Veal, whole, or in peices.
 Chines of Veal otherways, whole, or in pieces.
@@ -60,11 +61,11 @@ Garnish.
 To force a breast of Veal.
 To boil a breast of Veal otherwise.
 To Boil a breast of Veal in another manner.
-Another Pudding, called Cinamon-Pudding
-To make Rice Puddings
+Another Pudding, called Cinamon-Pudding.
+To make Rice Puddings.
 Other Rice Puddings.
 To mak Oatmeal puddings, called Isings.
-To make blood Puddings
+To make blood Puddings.
 To make Andolians.
 To make other Blood Puddings.
 Other Blood Puddings.
@@ -81,12 +82,9 @@ Other Stuffings of Puddings.
 Other forcing of Livers of Poultry, or Kid or Lambs.
 Other fillings or forcings of parboild Veal or Mutton.
 Other fillings of raw Capons.
-Otherways.
-Otherways.
 Legs of Mutton forc't, either rost or boil'd.
 Other forcing of Veal.
 Other forcing for Veal, Mutton, or Lamb.
-Otherways.
 Other forcing.
 Forcing in the Spanish Fashion in balls.
 Other manner of Balls.
@@ -94,15 +92,11 @@ Other grand or forc't Dish.
 To force a French Bread called Pine-molet, or three of them.
 Another forc't dish.
 Another forc't fryed Dish.
-Otherways.
 First, Bolonia Sausages.
 Other Sausages.
-Otherways.
 Other Sausages.
-Otherways for change.
 To make Links.
 First, of raw Beef.
-Otherways.
 6. To stew a Neats Tongue whole.
 8. To boil a Tongue otherways.
 To boil a Neats Tongue otherways, of three or four days powder.
@@ -130,9 +124,6 @@ To force a Breast of Veal.
 To boil a Leg of Veal.
 To boil a Leg of Mutton.
 To boil a Leg of Mutton otherways.
-Otherways.
-Otherways.
-Otherways.
 To boil peeping Chickens, the best and rarest way, alamode.
 To hash a Shoulder of Mutton.
 To hash a Shoulder of Mutton otherways.
@@ -149,11 +140,11 @@ To boil Woodcocks or Snipes.
 Boil'd Cocks or Larks otherways.
 To boil a Capon or Chicken in white Broth.
 A rare Fricase.
-Capons in Pottage in the F
+Capons in Pottage in the F.
 To boil a Capon, Pullet, or Chicken.
 To boil Capons or Chickens with Sage and Parsley.
 To boil a Capon or Chicken with divers compositions.
-To boil a Capon or Chicken in the F
+To boil a Capon or Chicken in the F.
 To boil a Capon or Chicken with sugar Pease.
 To boil a Capon or Chicken with Colliflowers.
 To boil a Capon or Chicken with Sparagus.
@@ -161,45 +152,35 @@ To boil a Capon or Chicken with Rice.
 Cold otherways.
 To boil all manner of small Sea or Land Fowl.
 Or thus.
-Otherways.
-To stew Pigeons in the F
-Otherways in the F
+To stew Pigeons in the F.
 To boil Pigeons otherways.
 To boil Pigeons otherwaies.
-Pottage in the I
+Pottage in the I.
 Pottage otherways in the Italian Fashion.
-Pottage of Mutton, Veal, or Beef, in the E
+Pottage of Mutton, Veal, or Beef, in the E.
 To stew a Shoulder of Mutton with Oysters.
 Other Hashes of Scotch Collops.
-Otherways the foresaid Collops.
-A Hash of a Leg of Mutton in the F
+A Hash of a Leg of Mutton in the F.
 Another Hash of Mutton or Lamb, either hot or cold.
 Another Hash of a Joynt of Mutton or Lamb hot or cold.
-Otherways.
 Other Hashes of a Shoulder of Mutton.
-C
-C
-C
-Other C
-C
+C.
+C.
+C.
+Other C.
+C.
 Capilotado Francois.
-Other made Dishes, or little Pasties called in Italian T
+Other made Dishes, or little Pasties called in Italian T.
 Tortelleti, or little Pasties.
-T
-T
+T.
+T.
 Woodcocks or Snites.
 Boil Woodcocks or Larks otherways.
 To boil these Fowls otherways.
-Otherways.
 To boil any old Geese, or any Geese.
 To boil wild Fowl otherways.
-Otherways.
-Otherways in the French Fashion.
 To boil Goose-Giblets, or the Giblets of any Fowl.
-Otherways.
-Otherways.
 Sauce for green-Geese.
-Otherways.
 How to dish it up.
 To boil all manner of Land Fowl, as followeth.
 Sauce for the Land Fowl.
@@ -209,20 +190,17 @@ Pottage otherways in the French Fashion of Mutton, Kid, or Veal.
 Pottage in the English Fashion.
 Pottage without sight of Herbs.
 To make Sausages.
-Otherways.
 To make most rare Sausages without skins.
-Otherways.
 To make Links.
 An hundred and twelve excellent wayes for the dressing of Beef.
 To boil Oxe-Cheeks.
-Bolonia 
+Bolonia. 
 To dress Oxe-Cheeks Otherways.
 Or thus.
 To dress Oxe Cheeks in Stofado, or the Spanish fashion.
 To marinate Oxe-Cheeks.
 Oxe Cheeks in Sallet.
 To bake Oxe cheeks in a Pasty or Pie.
-Otherways.
 To fricase Pallets.
 To stew Pallets, Lips, and Noses.
 To marinate Pallets, Noses, and Lips.
@@ -230,7 +208,6 @@ To make a Pottage of Beef Pallets.
 Oxe Pallets in Jellies.
 To bake Beef-Pallets.
 To dress a Neats-Tongue boil'd divers ways.
-Otherways.
 Neats Tongues and a fresh Udder in Stoffado.
 Neats Tongues stewed whole or in halves.
 To stew a Neats Tongue otherwayes.
@@ -246,10 +223,8 @@ To roast a Neats-Tongue or Udder otherways.
 To make minced Pies of a Neats tongue.
 To bake Neats tongues to eat cold, according to these figures.
 To bake a Neats tongue hot otherways.
-Otherways.
 To roast a Chine, Rib, Loin, Brisket, or Fillet of Beef.
 To roast a Fillet of Beef.
-Otherways.
 Or thus.
 To stew a fillet of Beef in the Italian Fashion.
 To make an excellent Pottage called Skinke.
@@ -259,23 +234,18 @@ Stewed Collops of Beef.
 Olives of Beef stewed and roast.
 To Make a Hash of raw Beef.
 To make a Hash of Beef otherways.
-Otherways.
-Otherways.
 Carbonadoes of Beef, raw, roasted, or toasted.
 To Carbonado, broil or toast Beef in the Italian fashion.
 Beef fried divers ways, raw or roasted.
 Beef fried otherways, being roasted and cold.
 Sauces for the raw fried Beef.
-Otherways to be eaten cold.
 To make minced Pies of Beef.
 To make a Collar of Beef.
 To bake a Flank of Beef in a Collar.
 To stuff Beef with Parsley to serve cold.
 To bake a Heifers Udder in the Italian fashion.
-Otherways to eat hot.
 To stew Calves or Neats Feet.
 To make a fricase of Neats-Feet.
-Otherways.
 Neats Feet larded, and roasted on a spit.
 To make Black Puddings of Beefers Blood.
 To dress a Dish of Tripes hot out of the pot or pan.
@@ -283,11 +253,9 @@ To make Bolonia-Sausages.
 The A-la-mode ways of dressing the Heads of any Beasts.
 To boil a Bullocks Cheek in the Italian way.
 To stew Bullocks Cheeks.
-Otherways.
 Or thus.
 To boil a Calves Head.
 To hash a Calves Head.
-Otherways.
 To souce a Calves Head.
 To roast a Calves head.
 To roast a Calves Head with Oysters.
@@ -302,7 +270,6 @@ To boil a Lambs Head otherways.
 Divers ways of breading or dredging of Meats and Fowl.
 Divers Bastings for roast Meats.
 To roast a Shoulder of Mutton with Oysters otherways.
-Otherways.
 To roast a Shoulder of Mutton with Oysters.
 Divers Sauces for roast Mutton.
 Oyster Sauce.
@@ -323,17 +290,14 @@ To roast pork with the Sauces belonging to it.
 Sauces.
 To roast Pigs divers ways with their different sauces.
 To roast a Pig with the hair on.
-Otherways.
 To dress a Pig the French way.
 To roast a Pig the plain way.
 To roast a Pig otherways.
-Otherways.
 To roast Hares with their several stuffings and sauces.
 Sauce.
 To roast a Hare with the skin on.
 Several Sauces belonging to Rabits.
 To roast Woodcocks in the English Fashion.
-Otherways in the French Fashion.
 To roast a Hen or Pullet.
 Sauce with Oysters and Bacon.
 Sauce for Hens or Pullets to prepare them to roast.
@@ -345,7 +309,6 @@ Sauces for a young stubble Goose.
 Sauce for a Duck.
 Sauces for Duck and Mallard in the French fashion.
 Green Sauce for Pork, Goslings, Chickens, Lamb, or Kid.
-Otherways.
 Or thus.
 To make divers sorts of Vinegar.
 To make Vinegar of corrupt Wine.
@@ -356,25 +319,20 @@ Vinegar for Digestion and Health.
 To Make strong Wine Vinegar into Balls.
 To make Verjuyce.
 To make Mustard divers ways.
-Otherways.
 Mustard of Dijon, or French Mustard.
 The best way of making all manner of Sallets.
 To make a grand Sallet of divers Compounds.
 Another way for a grand Sallet.
-Otherways.
 Another grand Sallet.
-Otherways.
 Other Grand Sallets.
 Other Grand Sallets.
 A good Sallet otherways.
 Other grand Sallet.
-Otherways.
 Another grand Sallet.
 Sallet of Scurvy grass.
 A grand Sallet of Alexander-buds.
 Other grand Sallet of Watercresses.
 A grand Sallet of pickled capers.
-Otherways.
 To pickle Cucumbers.
 Pickled Quinces the best way.
 To pickle Lemon.
@@ -397,55 +355,39 @@ To broil Brawn.
 To fry Eggs.
 To fry an Egg as round as a Ball.
 To make the best Fritters.
-Otherways.
 Other Fritters.
 Fritters in the Italian Fashion.
-Otherways in the Italian Fashion.
 Fritters of Spinage.
 To make Stock-Fritters or Fritters of Arms.
 Little Pasties, Balls, or Toasts fried.
-Otherways.
 Or thus.
-Otherways Pasties to fry.
-Otherways.
 To fry Paste out of a Syringe or Butter-squirt.
 To make Pancakes.
-Otherways.
 Or thus.
-Otherways.
 To make a Tansie the best way.
-Otherways.
 A Tansie for Lent.
 Toasts of Divers sorts.
 First, in Butter or Oyl.
-Otherways.
 Cinamon Toasts.
 French Toasts.
 The most Excellent Ways of making All sorts of Puddings.
 A boil'd Pudding.
-Otherways.
 To boil a Pudding otherways.
 Other Pudding.
 To make a Cream Pudding to be boil'd.
 To make a green boil'd Pudding of sweet Herbs.
 To make a Pudding in haste.
 To make a Quaking Pudding.
-Otherways baked.
 To make a Quaking Pudding either boil'd or baked.
-Otherways.
 To make a Shaking Pudding.
 To make a Hasty-Pudding in a Bag.
 To make a Hasty-Pudding otherways.
 To make an Almond Pudding.
-Otherways.
 To make an Almond Pudding in Guts.
 To make a Rice Pudding to bake.
 To make Rice Puddings in guts.
-Otherways.
-Otherways.
 To make a Cinamon Pudding.
 To make a Haggas Pudding.
-Otherways.
 To make a Chiveridge Pudding.
 To make Leveridge Puddings.
 Other Leveridge Puddings.
@@ -461,31 +403,24 @@ To make an excellent Pudding.
 Puddings of Swines Lights.
 To make an Oatmeal Pudding.
 Other Oatmeal Pudding.
-Otherways.
 To make Oatmeal Pudding-pies.
 To make an Oatmeal Pudding boil'd.
 Oatmeal Pudding otherwise of fish or flesh blood.
 To make a baked Pudding.
 To make a baked Pudding otherways.
-Otherways.
-Otherways.
 To make black Puddings.
 To make black Puddings otherways.
 To make black Puddings an excellent way.
 The rarest Ways of making all manner of Souces and Jellies.
 To souce a Brawn.
-To make Pig Brawn
+To make Pig Brawn.
 To garnish Brawn or Pig Brawn.
 To souce a Pig.
-Otherways in Collars.
 To souce a Pig otherways.
-Otherways.
-Otherways.
 To souce or jelly a Pig in the Spanish fashion.
 To souce a Capon.
 To souce a Leg of Veal.
-Otherways.
-To souce Bullocks Cheeks, a Flank, Brisket, or Rand of Beef, 
+To souce Bullocks Cheeks, a Flank, Brisket, or Rand of Beef. 
 To collar a Surloin, Flank, Brisket, Rand, or Fore-Rib of Beef.
 To jelly Hogs or Porkers Feet, Ears, or Snouts.
 To make a Crystal Jelly.
@@ -508,41 +443,27 @@ To make a Bisk or Batalia Pie.
 To bake Chickens or Pigeons.
 To Make a Chicken Pie otherways.
 A Stofado.
-Otherways.
-Otherways.
-Otherways.
-Otherways.
 To bake a Calves Chaldron.
 Minced Pies of Calves Chaldrons, or Muggets.
 To bake a Pig to be eaten cold called a Maremaid Pye.
-Otherways.
-Otherways.
-Otherways to be eaten hot.
 To bake four Hares in a Pie.
 To bake three Hares in a Pie to be eaten cold.
 To bake a Hare with a Pudding in his belly.
 To make minced Pies of a Hare.
-Otherways.
 To make a Pumpion Pie.
 To make a Lumber-Pie.
-Otherways.
 To make an Olive Pye.
 To bake a Loin, Breast, or Rack of Veal or Mutton.
 To make a Steak Pye the best way.
-Otherways.
-Otherways.
 To bake Steak Pies the French way.
-Otherways.
 To bake a Gammon of Bacon.
 To bake wild Bore.
-To bake your wild Bore that comes out of F
+To bake your wild Bore that comes out of F.
 To bake Red Deer.
 To bake Fallow-Dear to be eaten hot or cold.
 To bake a side or half Hanch to be eaten hot.
 To make a Paste for it.
 Other Sauce for tainted Venison.
-Otherways to preserve tainted Venison.
-Otherways to counterfeit Ram, Wether, or any Mutton for Venison.
 To make Umble-Pies.
 To make Pies of Sweet-breads or Lamb stones.
 To make minced Pies of Mutton.
@@ -557,11 +478,8 @@ To make an extraordinary good Cake.
 To make a Cake otherways.
 To make French Bread the best way.
 To bake a Quince Pye.
-Otherways.
-Otherways.
 To make a Quince Pye otherways.
-Otherways.
-To make a Trotter Pye of Quinces, Wardens, Pears, 
+To make a Trotter Pye of Quinces, Wardens, Pears. 
 To make a Pippin Pye.
 To make a Pippin Tart according to this form.
 To make a Pippin Tart, either in Tart, Patty-Pan, or Dish.
@@ -609,8 +527,6 @@ To make Paste for thin bak'd Meats.
 To make Custard Paste.
 Paste for made-Dishes in the Summer.
 Paste Royal for made Dishes.
-Otherways.
-Otherways.
 To make Paste for Lent for made Dishes.
 To make Puff-Paste divers ways.
 The First Way.
@@ -630,8 +546,6 @@ To make a Peasecod Dish, in a Puff Paste.
 Make Dishes of Frogs in the Italian Fashion.
 To make a made Dish of Marrow.
 A made Dish of Rice in Puff Paste.
-Otherways of Almond-Paste, and boiled Rice.
-Otherways a Made Dish of Rice and Paste.
 To make a made Dish of Rice, Flour, and Cream.
 To make a made Dish of Rice, Prunes, and Raisins.
 To make a made Dish of Blanchmanger.
@@ -658,28 +572,23 @@ To make Bisket Bread.
 To make Bisquite du Roy.
 Bisquite du Roy otherways.
 To make Shell Bread.
- To make Bean Bread.
+To make Bean Bread.
 To make Ginger-Bread.
 To make Ipocras.
-Otherways.
 To make excellent Mead much commended.
-Otherways.
 To make Metheglin.
 To make Apple Cream.
 To make Codling Cream.
-Otherways.
 To boil Cream with Codlings.
 To make Quince-Cream.
 To make Plum Cream.
 To make Gooseberry Cream.
 To make Snow Cream.
 To make Snow Cream otherways.
-Otherways.
 To make Snow Cream otherways with Almonds.
 To make a Jelly of Almonds as white as Snow.
 To Make Almond Cream.
 To make Almond Cream otherways.
-Otherways.
 To make Almond Cheese.
 To make an excellent Cream.
 To make Cream otherways.
@@ -702,7 +611,6 @@ French Barley Cream.
 To make Cheesecakes.
 To make Cheesecakes otherways.
 To make Cheesecakes otherways.
-Otherways.
 To make Cheesecakes without Milk.
 Cheesecakes otherways.
 To make Cheesecakes otherways.
@@ -719,29 +627,22 @@ To make a Sack Posset without Milk or Cream.
 Other Posset.
 An excellent Syllabub.
 To make White Pots according to these Forms.
-Otherways to make a White Pot.
 To make a Wassel.
 To make a Norfolk Fool.
 To make Pap.
 To make Blamanger according to these Forms.
-Otherways.
 Blamanger otherways.
-Otherways.
 To make Blamanger otherways.
 Blamanger otherways.
-Otherways.
 To make Blamanger in the Italian fashion.
 To Boil a Carp in Corbolion.
 To boil a Carp the best way to be eaten hot.
-Otherways.
 Or thus.
 To make a Bisque of Carps.
 To make a Bisk with Carps and other several Fishes.
 The best way to stew a Carp.
 To stew a Carp in the French fashion.
 Another most excellent way to stew a Carp.
-Otherways.
-Otherways.
 To stew a Carp seven several ways.
 To make French Herb Pottage for Fasting Days.
 Other Broth or Pottage of a Carp.
@@ -750,7 +651,6 @@ To hash a Carp.
 To marinate a Carp to be eaten hot or cold.
 To broil a Carp in Staffado.
 To roast a Carp.
-Otherways.
 Sauces for Roast Carp.
 To make a Carp Pye a most excellent way.
 Paste for a Florentine of Carps made in a dish or patty-pan.
@@ -759,35 +659,30 @@ To bake a Carp with Oysters.
 To make minced Pies of Carps and Eels.
 To bake a Carp according to these Forms to be eaten hot.
 To bake a Carp with Eels to be eaten cold.
-Otherways.
 Shewing the most Excellent Ways of Dressing of Pikes.
 To boil a Pike.
 To boil a Pike otherways.
 To boil a Pike and Eel together.
 To boil a Pike otherways.
-Otherways.
 To boil a Pike in White Broth.
 To boil a Pike in the City Fashion.
 To stew a Pike in the French Fashion.
 To stew a Pike otherways in the City Fashion.
 To hash a Pike.
 To souce a Pike.
-To souce and jelly Pike, Eeel, Tench, Salmon, Conger, 
-Otherways to souce and jelly the foresaid Fishes.
+To souce and jelly Pike, Eeel, Tench, Salmon, Conger. 
 Pike Jelly otherways.
 To make White Jelly of two Pikes.
 To roast a Pike.
 To fry Pikes.
 To fry a Pike otherways.
 To broil a Pike.
-Otherways.
 To broil Mackarel or Horn kegg.
 To broil Herrings, Pilchards, or Sprats.
 To bake Pikes.
 The most excellent ways of Dressing Salmon, Bace, or Mullet.
 To Calver Salmon to be eaten hot or cold.
 To stew a small Salmon, Salmon Peal, or Trout.
-Otherways a most excellent way to stew Salmon.
 To pickle Salmon to keep all the year.
 An excellent way to dress Salmon, or other Fish.
 To hash Salmon.
@@ -796,7 +691,6 @@ To marinate Salmon to be eaten hot or cold.
 To boil Salmon in stewed Broth.
 To fry Salmon.
 To roast a Salmon according to this Form.
-Otherways.
 To broil or toast Salmon.
 To broil or roast a Salmon in Stoffado.
 Sauces for roast or boil'd Salmon.
@@ -804,7 +698,7 @@ To bake Salmon.
 To make minced Pies of Salmon.
 To make Chewits of Salmon.
 To make a Lumber Pye of Salmon.
-To boil Bace, Mullet, Gurnet, Rochet, Wivers, 
+To boil Bace, Mullet, Gurnet, Rochet, Wivers. 
 To souce Mullets or Bace.
 To marinate Mullets or Bace.
 To marinate Bace, Mullet, Gurnet, or Rochet otherways.
@@ -814,27 +708,22 @@ To bake a Mullet or Bace.
 To boil Turbut to eat hot.
 Turbut otherways calvered.
 To boil Turbut or Holyburt otherways.
-Otherways.
 To souce Turbut or Holyburt otherways.
 To stew Turbut or Holyburt.
 To fry Turburt or Hollyburt.
 The best way to calver Flounders.
 To boil Plaice hot to butter.
-Otherways.
 To stew Plaice.
-Otherways.
 To bake a Lampry.
 To bake a Lampry otherways with an Eel.
 To bake a Lampry in the Italian Fashion to eat hot.
 To bake a Lampry otherways in Patty-pan or dish.
 Shewing the best way to Dress Eels, Conger, Lump, and Soals.
 To boil Eels to be eaten hot.
-Otherways.
 To stew Eels.
 To stew Eels in an Oven.
 To stew Eels otherways to be eaten hot.
 To stew whole Eels to be eaten hot.
-Otherways.
 To dress Eels in Stoffado.
 To souce Eels in Collars.
 To jelly Eels otherways.
@@ -847,13 +736,11 @@ To broil salt Eels.
 To roast an Eel.
 To roast Eels otherways.
 To bake Eels in Pye, Dish or Patty-pan.
-Otherways.
 To bake Eels otherways.
 To bake Eels with Tenches in a round or square Pie to eat cold.
 To make minced Pies of an Eel.
 Minced Eel Pyes otherways.
 Other minced Eel Pyes.
-Otherways.
 To boil Conger to be eaten hot.
 To stew Conger.
 To marinate Conger.
@@ -867,17 +754,13 @@ In Pye Proportion.
 To stew a Lump.
 To bake a Lump.
 To boil Soals.
-Otherways.
 To stew Soals.
-Otherways.
 To dress Soals otherways.
 To souce Soals.
-Otherways.
 To jelly Soals.
 To roast Soals.
 The A-la-mode ways of Dressing and Ordering of Sturgeon.
 To boil Sturgeon to serve hot.
-Otherways.
 Sturgeon buttered.
 To make a hot Hash of Sturgeon.
 To make a cold Hash of Sturgeon.
@@ -886,7 +769,6 @@ To make a farc't meat of Sturgeon.
 To souce Sturgeon to keep all the year.
 To souce Sturgeon in two good strong sweet Firkins.
 To broil Sturgeon, or toast it against the fire.
-Otherways.
 To fry Sturgeon.
 To jelly Sturgeon.
 To roast Sturgeon.
@@ -895,12 +777,9 @@ To make Olines of Sturgeon otherways.
 To bake Sturgeon Pies to eat cold.
 To bake Sturgeon otherways with Salmon.
 To make a Sturgeon Pye to eat cold otherways.
-Otherways.
 To bake sturgeon Pies to be eaten hot.
-Otherways.
 To bake Sturgeon Pyes in dice work to be eaten hot.
 To make minced Pyes of Sturgeon.
-Otherways.
 Minced Pyes of Sturgeon otherways.
 To make Chewits of Sturgeon, according to these Forms.
 To make a Lumber Pye of Sturgeon.
@@ -908,41 +787,31 @@ To make an Olive Pye of Sturgeon in the Italian fashion.
 Other stuffings or Puddings.
 To make an Olio of Sturgeon with other Fishes.
 To make minced Herring Pies.
-Otherways.
-To make minced Pies of Ling, Stock-fish, Harberdine, 
-Otherways.
+To make minced Pies of Ling, Stock-fish, Harberdine. 
 Shewing the exactest Ways of Dressing all manner of Shell-Fish.
 To stew oysters in the French Way.
 To stew Oysters otherways.
 To stew Oysters otherways.
-Otherways.
 Or thus.
 To make Oyster Pottage.
-Otherways.
 To make a Hash of Oysters.
 To marinate great oysters to be eaten hot.
 Oysters in Stoffado.
 To Jelly Oysters.
 To pickle Oysters.
-Otherways.
 To souce Oysters to serve hot or cold.
 To roast Oysters.
 To roast Oysters otherways.
-Otherways.
 To broil Oysters.
 To broil Oysters otherways upon paper.
 To broil large Oysters otherways.
 To fry Oysters.
-Otherways.
 To bake Oysters.
 To bake Oysters otherways.
-Otherways.
 To make an Oyster Pye otherways.
 To make minced Pies or Chewits of Oysters.
 To bake Oysters otherways.
-Otherways.
 To bake Oysters otherways.
-Otherways.
 To make a made Dish of Oysters and other Compounds.
 To make cool Butter-Paste for this Dish.
 To make Paste for Oyster-Pies.
@@ -959,7 +828,6 @@ To fry Muscles.
 To make a Muscle Pye.
 To stew Prawns, Shrimps, or Craw-Fish.
 To stew Lobsters.
-Otherways.
 To stew Lobsters otherways.
 To hash Lobsters.
 To boil Lobsters to eat cold the common way.
@@ -967,61 +835,42 @@ To keep Lobsters a quarter of a year very good.
 To farce a Lobster.
 To marinate Lobsters.
 To broil Lobsters.
-Otherways.
 To broil Lobsters on paper.
 To roast Lobsters.
-Otherways.
-Otherways.
-Otherways.
 To fry Lobsters.
 To bake Lobsters to be eaten hot.
-Otherways.
-Otherways.
 To pickle Lobsters.
 To jelly Lobsters, Craw-fish, or Prawns.
 To stew Crabs.
 To stew Crabs otherways.
-Otherways.
 To butter Crabs.
-Otherways.
 To make a Hash of Crabs.
 To farce a Crab.
 To broil Crabs in Oyl or Butter.
 To fry Crabs.
-Otherways.
 To bake Crabs in Pye, Dish, or Patty pan.
-Otherways.
 To make minced Pies of a Crab.
 To dress Tortoise.
 To dress Snails.
 To stew Snails.
-Otherways.
-Otherways.
 To fry Snails.
-Otherways.
 To make a Hash of Snails.
 To dress Snails in a Pottage.
 To bake Snails.
 To bake Frogs.
 To make all manner of Pottages for Fish-Days.
 French Barley Pottage.
-Otherways.
 To make Gruel Pottage the best way for service.
-Otherways.
-Otherways.
 To make Furmety.
 To make Rice Pottage.
-Otherways.
 Milk Pottage.
 Ellicksander Pottage.
 Pease Pottage.
-Otherways.
 Dry or old Pease Pottage.
 Strained Pease Pottage.
 An excellent stewed Broth for Fish-Day.
 Onion Pottage.
 Almond Pottage.
-Otherways.
 Almond Caudle.
 Oatmeal Caudle.
 Egg Caudle.
@@ -1029,25 +878,19 @@ Sugar, or Honey Sops.
 To make an Alebury.
 Buttered Beer.
 Buttered Beer or Ale otherways.
-Otherways.
 Panado's.
 To make a Posset simple.
-Otherways.
 Possets of Herbs otherways.
 To make French Puffs.
 Soops or butter'd Meats of Spinage.
 Soops of Carrots.
 Soops of Artichocks, Potatoes, Skirrets, or Parsnips.
 To butter Onions.
-Otherways.
 Buttered Sparagus.
 Buttered Colliflowers.
-Otherways.
 To butter Quinces.
 To butter Rice.
 To butter Gourds, Pumpions, Cucumbers or Muskmelons.
-Otherways.
-Otherways.
 To make buttered Loaves.
 To boil French Beans or Lupins.
 To boil Garden Beans.
@@ -1085,34 +928,21 @@ To butter a Dish of Eggs.
 To make a Bisk of Eggs.
 Eggs in Moon shine.
 Eggs in Moon shine otherways.
-Otherways.
-Otherways.
 Eggs otherways.
 To dress Eggs in the Spanish Fashion, called, wivos me quidos.
 To dress Eggs in the Portugal Fashion.
-Otherways.
-To dress Eggs called in French A
+To dress Eggs called in French A.
 To dress Eggs in Fashion of a Tansie.
 Eggs and almonds.
 To broil Eggs.
 To dress poached Eggs.
-Otherways.
-Otherways.
-Otherways to poach Eggs.
-Otherways.
-Otherways.
 A grand farc't Dish of Eggs.
-Otherways.
 To make a great compound Egg, as big as twenty Eggs.
 To butter Eggs upon toasts.
-Otherways.
 An excellent way to butter Eggs.
-Otherways.
 Eggs buttered in the Polonian fashion.
-Otherways.
 To make minced Pies of Eggs according to these forms.
 Eggs or Quelque shose.
-Otherways.
 Blanch Manchet in a frying-Pan.
 Quelque shose otherways.
 Other Fricase or Quelque shose.
@@ -1124,15 +954,12 @@ To fry young Artichocks otherways.
 Shewing the best way of making Diet for the Sick.
 To make a Broth for a Sick body.
 To stew a Cock against a Consumption.
-Otherways.
 Stewed Pullets against a Consumption.
 To distill a Pig good against a Consumption.
 To make Broth good against a Consumption.
-Otherways.
-Otherways.
 To make a Paste for a Consumption.
 To make a Jelly for a Consumption of the Lungs.
- An excellent Water for a Consumption.
+An excellent Water for a Consumption.
 Other drink for a Consumption.
 To make an excellent Broth or Drink for a Sick Body.
 To make a strong Broth for a Sick Party.
@@ -1150,864 +977,1078 @@ Fatting of Swans and Cygnets.
 Of fatting Turkies.
 Of nourishing and fatting Herns, Puets, Gulls, and Bitterns.
 To feed Codwits, Knots, Gray-Plovers, or Curlews.
-Otherways.
 To feed Olines.
 To feed Pewets.
 The feedings of Pheasant, Partridge, Quails, and Wheat Ears.
 Andolians. 
-Almond Pudding 
-Almond Leach 
-Almond Custard 
-Almond Tart 
-Almond Bread, Biskets and Cakes 
-Almond cream 
-Almond cheese 
-Almond caudle 
-Apricocks baked 
-Apricocks preserved 
-Ambergriece cakes 
-Apple cream 
-Aleberry 
-Artichocks baked 
-Artichocks stewed 
-Artichocks fryed 
-Barley Broth 
-Broth stewed 
-Bisk divers ways 
-Bisk or Batalia Pye 
-Beef fillet roasted 
-Beef roasted to pickle 
-Beef collops stewed 
-Beef carbonado'd 
-Beef baked red deer fashion 
-Beef minced Pyes 
-Bullocks cheeks souced 
-Boar wild baked 
-Brawn broil'd 
-Brawn boil'd 
-Brawn souc't 
-Brawn of Pig 
-Brawn garnisht 
-Breading of meats and fowls 
-Bacon gammon baked 
-Bread the French fashion 
-Biscket bread 
-Bisquite du Roy 
-Bean bread 
-Beer buttered 
-Barberries preserved 
-Blamanger 
-Blanch manchet in a frying pan 
-Calves head boil'd 
-Calves head souced 
-Calves head roasted 
-Calves head hashed 
-Calves head broil'd 
-Calves head baked 
-Calves foot pye 
-Calves head roasted with Oysters 
-Calves feet roasted 
-Calves chaldron baked 
-Capons in pottage 
-Capons souc't 
-Calves chaldron in minced Pyes. 
-Capons boil'd 
-Capons fillings raw 
-Cocks boil'd 
-Cock stewed against a Consumption 
-Chicken pye 
-Chickens peeping boil'd 
-Chickens how to feed them 
-China broth 
-Capilotadoes or Made Dishes 
-Collops and eggs 
-Collops like bacon of Marchpane. 
-Cucumbers pickled 
-Colliflowers buttered 
-Custards how to make them 
-Custards without eggs 
-Cheescakes how to make them 
-Cheescakes without Milk 
-Cheesecakes in the Italian fashion 
-Cream and fresh Cheese 
-Codling cream 
-Cast cream 
-Clouted Cream 
-Cabbidge cream 
-Cream tart 
-Cherry tart 
-Cherries preserved 
-Cake a very good one 
-Cracknéls, 
-Carp boil'd in carbolion 
-Carp bisk 
-Carp stewed 
-Carp stewed the French way 
-Carp broth 
-Carp in stoffado 
-Carp hashed 
-Carp marinated 
-Carp broil'd 
-Carp roasted 
-Carp Pye 
-Carp pie minc't with eels 
-Carp baked the French way 
-Conger boil'd 
-Conger stewed 
-Conger marinated 
-Conger souc't 
-Conger roasted 
-Conger broil'd 
-Conger fryed 
-Conger baked 
-Cockles stewed 
-Crabs stewed 
-Crabs buttered 
-Crabs hashed 
-Crabs farced 
-Crabs boil'd 
-Crabs fryed 
-Crabs baked 
-Crab minced Pyes 
-Deer red roasted 
-Deer red baked 
-Deer fallow baked 
-Dish in the Italian way 
-Damsin tart 
-Damsins preserved 
-Ducklings how to fat them 
-Entre de table, a French dish 
-Eggs fryed 
-Eggs fryed as round as a ball 
-Egg caudle 
-Eggs dressed hard 
-Eggs buttered 
-Egg bisk 
-Eggs in Moon shine 
-Eggs in the Portugal fashion 
-Eggs a-la-Hugenotte 
-Eggs in fashion of a Tansie 
-Eggs and Almonds 
-Eggs broil'd 
-Eggs poached 
-Eggs, grand farced dish 
-Eggs compounded as big as twenty Eggs 
-Eggs buttered on toasts 
-Eggs buttered in the Polonian way 
-Egg minced pyes 
-Eggs or Quelque shose 
-Eggs fricase 
-Eels boil'd 
-Eels stewed 
-Eels in Stoffado 
-Eels souced or jellied 
-Eels hashed 
-Eels broiled 
-Eels roasted 
-Eels baked 
-Eel minced Pies. 
-Fritters how to make them 
-Fritters in the Italian fasion 
-Fritters of arms 
-Fried dishes of divers forms 
-Fried pasties, balls, or tosts 
-French tart 
-French Barley Cream 
-Florentine of tongues 
-Florentine of Partridg or capon 
-Florentine without paste 
-Flounders calvered 
-Frogs baked 
-Furmety. 
-Fowl hashed 
-Fowl farced 
-Farcing in the Spanish Fashion 
-Farcing French bread, called Pinemolet 
-Fricase a rare one 
-Flowers pickled 
-Flowers candied 
-Grapes and Gooseberries pickled 
-Grapes preserved 
-Gooseberries preserved 
-Gooseberry Cream 
-Ginger bread 
-Geese boil'd 
-Goose giblets boil'd 
-Goslings how to order them 
-Geese old ones to fat them 
-Hashes all manner of ways 
-Hashes of Scotch collops 
-Hare hashed 
-Hares roasted 
-Hares four baked in a pie 
-Hares three in a pye 
-Hare baked with a pudding in his belly 
-Hens roasted 
-Hip tart 
-Herring minced Pies 
-Haberdine pyes 
-Hogs feet jellied 
-Herns to nourish and fat them 
-Jelly crystal 
- Jelly of several colours 
-Jelly as white as snow 
-Jellies for souces 
-Jelly of harts-horn 
-Jelly for a consumption 
-Jelly for a consumption of the Lungs 
-Jelly for weakness in the back 
-Jumballs 
-Italian chips 
-Ipocras 
-Lambs head boil'd 
-Lambs head in white broth 
-Lambs stones fryed 
-Land or Sea fowl boiled 
-Leach with Almonds 
-Lamprey how to bake 
-Links how to make 
-Lemons pickled 
-Loaves buttered 
-Lump baked 
-Ling pyes 
-Lobsters stewed 
-Lobsters hashed 
-Lobsters baked 
-Lobsters farced 
-Lobsters marinated 
-Lobsters broil'd 
-Lobsters roasted 
-Lobsters fryed 
-Lobsters baked 
-Lobsters pickled 
-Lobsters jellied 
-Marrow pyes 
-Marrow puddings 
-Maremaid pye 
-Made dish of tongues 
-Made dish of Spinage 
-Made dish of barberries 
-Made dish of Frogs 
-Made dish of marrow 
-Made dish of rice 
-Made dish of Blanchmanger 
-Made dish of butter and eggs 
-Made dish of curds 
-Made dish of Oysters 
-Marchpane 
-Mead 
-Metheglin 
-Mackeroons 
-Melacatoons baked 
-Melacatoons preserved 
-Medlar tart 
-Minced pies of Veal, Mutton Beef, 
-Minced pyes in the French fashion 
-Minced pies in the Italian fashion 
-Mutton Legs farced 
-Mutton shoulder hashed 
-Mutton shoulder roasted 
-Mutton or Veal stewed 
-Mutton shoulder stewed 
-Mutton or veal stewed 
-Mutton chines boil'd 
-Mutton carbonadoed 
-Mutton boil'd 
-Mustard how to make it 
-Mustard of Dijon 
-Mustard in cakes 
-Musquedines 
-Mullet souc't 
-Mullet marinated 
-Mullet broil'd 
-Mullet fryed 
-Mullet baked 
-Mushrooms fryed 
-Mushrooms in the italian fashion 
-Mushrooms stewed 
-Mushrooms broil'd 
-Muskles stewed 
-Muskles fryed 
-Muskle Pyes 
-Neats tongue boil'd 
-Neats tongue in stoffado 
-Neats tongues stewed 
-Neats tongue in Brodo lardiero 
-Neats tongue roasted 
-Neats tongue hashed 
-Neats tongue bak't 
-Neats feet larded and roasted
+Almond Pudding. 
+Almond Leach. 
+Almond Custard. 
+Almond Tart. 
+Almond Bread, Biskets and Cakes. 
+Almond cream. 
+Almond cheese. 
+Almond caudle. 
+Apricocks baked. 
+Apricocks preserved. 
+Ambergriece cakes. 
+Apple cream. 
+Aleberry. 
+Artichocks baked. 
+Artichocks stewed. 
+Artichocks fryed. 
+Barley Broth. 
+Broth stewed. 
+Bisk divers ways. 
+Bisk or Batalia Pye. 
+Beef fillet roasted. 
+Beef roasted to pickle. 
+Beef collops stewed. 
+Beef carbonado'd. 
+Beef baked red deer fashion. 
+Beef minced Pyes. 
+Bullocks cheeks souced. 
+Boar wild baked. 
+Brawn broil'd. 
+Brawn boil'd. 
+Brawn souc't. 
+Brawn of Pig. 
+Brawn garnisht. 
+Breading of meats and fowls. 
+Bacon gammon baked. 
+Bread the French fashion. 
+Biscket bread. 
+Bisquite du Roy. 
+Bean bread. 
+Beer buttered. 
+Barberries preserved. 
+Blamanger. 
+Blanch manchet in a frying pan. 
+Calves head boil'd. 
+Calves head souced. 
+Calves head roasted. 
+Calves head hashed. 
+Calves head broil'd. 
+Calves head baked. 
+Calves foot pye. 
+Calves head roasted with Oysters. 
+Calves feet roasted. 
+Calves chaldron baked. 
+Capons in pottage. 
+Capons souc't. 
+Calves chaldron in minced Pyes.. 
+Capons boil'd. 
+Capons fillings raw. 
+Cocks boil'd. 
+Cock stewed against a Consumption. 
+Chicken pye. 
+Chickens peeping boil'd. 
+Chickens how to feed them. 
+China broth. 
+Capilotadoes or Made Dishes. 
+Collops and eggs. 
+Collops like bacon of Marchpane.. 
+Cucumbers pickled. 
+Colliflowers buttered. 
+Custards how to make them. 
+Custards without eggs. 
+Cheescakes how to make them. 
+Cheescakes without Milk. 
+Cheesecakes in the Italian fashion. 
+Cream and fresh Cheese. 
+Codling cream. 
+Cast cream. 
+Clouted Cream. 
+Cabbidge cream. 
+Cream tart. 
+Cherry tart. 
+Cherries preserved. 
+Cake a very good one. 
+Cracknéls. 
+Carp boil'd in carbolion. 
+Carp bisk. 
+Carp stewed. 
+Carp stewed the French way. 
+Carp broth. 
+Carp in stoffado. 
+Carp hashed. 
+Carp marinated. 
+Carp broil'd. 
+Carp roasted. 
+Carp Pye. 
+Carp pie minc't with eels. 
+Carp baked the French way. 
+Conger boil'd. 
+Conger stewed. 
+Conger marinated. 
+Conger souc't. 
+Conger roasted. 
+Conger broil'd. 
+Conger fryed. 
+Conger baked. 
+Cockles stewed. 
+Crabs stewed. 
+Crabs buttered. 
+Crabs hashed. 
+Crabs farced. 
+Crabs boil'd. 
+Crabs fryed. 
+Crabs baked. 
+Crab minced Pyes. 
+Deer red roasted. 
+Deer red baked. 
+Deer fallow baked. 
+Dish in the Italian way. 
+Damsin tart. 
+Damsins preserved. 
+Ducklings how to fat them. 
+Entre de table, a French dish. 
+Eggs fryed. 
+Eggs fryed as round as a ball. 
+Egg caudle. 
+Eggs dressed hard. 
+Eggs buttered. 
+Egg bisk. 
+Eggs in Moon shine. 
+Eggs in the Portugal fashion. 
+Eggs a-la-Hugenotte. 
+Eggs in fashion of a Tansie. 
+Eggs and Almonds. 
+Eggs broil'd. 
+Eggs poached. 
+Eggs, grand farced dish. 
+Eggs compounded as big as twenty Eggs. 
+Eggs buttered on toasts. 
+Eggs buttered in the Polonian way. 
+Egg minced pyes. 
+Eggs or Quelque shose. 
+Eggs fricase. 
+Eels boil'd. 
+Eels stewed. 
+Eels in Stoffado. 
+Eels souced or jellied. 
+Eels hashed. 
+Eels broiled. 
+Eels roasted. 
+Eels baked. 
+Eel minced Pies.. 
+Fritters how to make them. 
+Fritters in the Italian fasion. 
+Fritters of arms. 
+Fried dishes of divers forms. 
+Fried pasties, balls, or tosts. 
+French tart. 
+French Barley Cream. 
+Florentine of tongues. 
+Florentine of Partridg or capon. 
+Florentine without paste. 
+Flounders calvered. 
+Frogs baked. 
+Furmety.. 
+Fowl hashed. 
+Fowl farced. 
+Farcing in the Spanish Fashion. 
+Farcing French bread, called Pinemolet. 
+Fricase a rare one. 
+Flowers pickled. 
+Flowers candied. 
+Grapes and Gooseberries pickled. 
+Grapes preserved. 
+Gooseberries preserved. 
+Gooseberry Cream. 
+Ginger bread. 
+Geese boil'd. 
+Goose giblets boil'd. 
+Goslings how to order them. 
+Geese old ones to fat them. 
+Hashes all manner of ways. 
+Hashes of Scotch collops. 
+Hare hashed. 
+Hares roasted. 
+Hares four baked in a pie. 
+Hares three in a pye. 
+Hare baked with a pudding in his belly. 
+Hens roasted. 
+Hip tart. 
+Herring minced Pies. 
+Haberdine pyes. 
+Hogs feet jellied. 
+Herns to nourish and fat them. 
+Jelly crystal. 
+Jelly of several colours. 
+Jelly as white as snow. 
+Jellies for souces. 
+Jelly of harts-horn. 
+Jelly for a consumption. 
+Jelly for a consumption of the Lungs. 
+Jelly for weakness in the back. 
+Jumballs. 
+Italian chips. 
+Ipocras. 
+Lambs head boil'd. 
+Lambs head in white broth. 
+Lambs stones fryed. 
+Land or Sea fowl boiled. 
+Leach with Almonds. 
+Lamprey how to bake. 
+Links how to make. 
+Lemons pickled. 
+Loaves buttered. 
+Lump baked. 
+Ling pyes. 
+Lobsters stewed. 
+Lobsters hashed. 
+Lobsters baked. 
+Lobsters farced. 
+Lobsters marinated. 
+Lobsters broil'd. 
+Lobsters roasted. 
+Lobsters fryed. 
+Lobsters baked. 
+Lobsters pickled. 
+Lobsters jellied. 
+Marrow pyes. 
+Marrow puddings. 
+Maremaid pye. 
+Made dish of tongues. 
+Made dish of Spinage. 
+Made dish of barberries. 
+Made dish of Frogs. 
+Made dish of marrow. 
+Made dish of rice. 
+Made dish of Blanchmanger. 
+Made dish of butter and eggs. 
+Made dish of curds. 
+Made dish of Oysters. 
+Marchpane. 
+Mead. 
+Metheglin. 
+Mackeroons. 
+Melacatoons baked. 
+Melacatoons preserved. 
+Medlar tart. 
+Minced pies of Veal, Mutton Beef. 
+Minced pyes in the French fashion. 
+Minced pies in the Italian fashion. 
+Mutton Legs farced. 
+Mutton shoulder hashed. 
+Mutton shoulder roasted. 
+Mutton or Veal stewed. 
+Mutton shoulder stewed. 
+Mutton or veal stewed. 
+Mutton chines boil'd. 
+Mutton carbonadoed. 
+Mutton boil'd. 
+Mustard how to make it. 
+Mustard of Dijon. 
+Mustard in cakes. 
+Musquedines. 
+Mullet souc't. 
+Mullet marinated. 
+Mullet broil'd. 
+Mullet fryed. 
+Mullet baked. 
+Mushrooms fryed. 
+Mushrooms in the italian fashion. 
+Mushrooms stewed. 
+Mushrooms broil'd. 
+Muskles stewed. 
+Muskles fryed. 
+Muskle Pyes. 
+Neats tongue boil'd. 
+Neats tongue in stoffado. 
+Neats tongues stewed. 
+Neats tongue in Brodo lardiero. 
+Neats tongue roasted. 
+Neats tongue hashed. 
+Neats tongue bak't. 
+Neats feet larded and roasted.
 Norfolk fool.
-Olio Podrida 
-Olines of Beef 
-Olines of a Leg of Veal 
-Oline pye 
-Olines how to feed them 
-Oatmeal Caudle 
-Omlets of Eggs 
-Onions buttered 
-Oysters stewed the french way 
-Oysters stewed otherways 
-Oyster pottage 
-Oysters hashed 
-Oysters marinated 
-Oysters in stoffado 
-Oysters jellied 
-Oysters pickled 
-Oysters souc't 
-Oysters roasted 
-Oysters broil'd 
-Oysters fryed 
-Oysters baked 
-Oyster mince pies 
-Oxe cheeks boil'd 
-Oxe cheeks in stoffado 
-Oxe cheeks baked 
-Partridge hashed 
-Partridge how to feed them 
-Paste how to make it 
-Paste royal 
-Paste for made dishes in Lent 
-Puff-paste 
-Paste of Violets, Cowslips,
-Paste for a Consumption 
-Pallets of Oxe how to dress them 
-Pallit pottage 
-Pallets rosted 
-Pallets in Jellies 
-Pallets bak't 
-Pancakes 
-Panadoes 
-Pap 
-Pease tarts 
-Pease cod dish in Puff paste 
-Pease pottage 
-Peaches preserved 
-Pewets to nourish them 
-Pheasants how to feed them 
-Pheasant baked 
-Pinemolet 
-Pie extraordinary, or a bride pye 
-Pie of pippins 
-Pippins preserved 
-Pig roasted with hair on 
-Pig roasted otherways 
-Pig souc't 
-Pig jellied 
-Pig distilled against a Consumption 
-Pigeons boil'd 
-Pigeons baked 
-Pike boil'd 
-Pike stewed 
-Pike hashed 
-Pike souc't 
-Pike jellied 
-Pike roasted 
-Pike fried 
-Pike boil'd 
-Pike bak't 
-Plumb cream 
-Plaice boil'd or stewed 
-Plovers how to feed them 
-Pork boil'd 
-Pork roasted 
-Pottages 
-Pottage in the french fashion 
-Pottage without any sight of herbs 
-Pottage called skink 
-Pottage of ellicksanders 
-Pottage of onions 
-Pottage of almonds 
-Pottage of grewel 
-Pottage of rice 
-Pottage of milk 
-Potatoes baked 
-Portugal tarts for banquettings 
-Posset how to make it 
-Posset of Sack 
-Posset compounded 
-Posset simple 
-Posset of herbs 
-Puffs the French way 
-Prawns stewed 
-Preserved green fruits 
-Pudding of several sorts 
-Pudding of Turkey or Capon 
-Puddings of Liver 
-Puddings of heifers udder 
-Puddings black 
-Pudding in a breast of Veal 
-Pudding boil'd 
-Pudding of cream 
-Pudding of sweet herbs 
-Pudding in hast 
-Pudding quaking 
-Pudding shaking 
-Pudding of rice 
-Pudding of cinamon 
-Pudding haggas 
-Pudding cheveridge 
-Pudding liveridge 
-Pudding of swan or goose 
-Pudding of wine in guts 
-Pudding in the Italian Fashion 
-Pudding the French way 
-Pudding of swine lights 
-Pudding of oatmeal 
-Pudding pyes of oatmeal 
-Pudding baked 
-Puddings white 
-Pullets stewed against a Consumption 
-Pyramides cream 
-Quinces pickled 
-Quince Pyes 
-Quince tarts 
-Quince cream 
-Quinces buttered 
-Quodling pye 
-Quails how to feed them 
-Rasberies preserv'd 
-Rabbits hashed 
-Restorative for a weak back 
-Rice tart 
-Rice cream 
-Rice buttered 
-Roots farced 
-Sauce for green geese 
-Sauce for Land fowl 
-Sauce for roast mutton 
-Sauce for roast veal 
-Sauce for red deer 
-Sauce for Rabbits 
-Sauce for Hens 
-Sauce for Chickens 
-Sauce for Pidgeons 
-Sauce for a Goose 
-Sauce for a Duck 
-Sauce for a Sea Fowl 
-Sauce for roast Salmon 
-Sausages 
-Sausages Bolonia 
-Sausage for jelly 
-Sallet grand of minc't fowl 
-Sallet grand of divers compound 
-Sallet of scurvy grass 
-Sallet of elixander buds 
-Scoch collops of mutton 
-Salmon calvered 
-Salmon stewed 
-Salmon pickled 
-Salmon hashed 
-Salmon marinated 
-Salmon in stoffado 
-Salmon fryed 
-Salmon roasted 
-Salmon broil'd or roasted in stoffado. 
-Salmon baked 
-Salmon, chewits, or minced pyes 
-Salmon Lumber pye 
-Sack cream 
-Stone cream 
-Snow cream 
-Scollops stewed 
-Sea fowl bak'd 
-Silabub an excellent way 
-Shell bread 
-Snails stewed 
-Snails fryed 
-Snails hashed 
-Snails in pottage 
-Snaile back'd 
-Snites boil'd 
-Soals boil'd 
-Soals stewed 
-Soals souc'd 
-Soals jellied 
-Soals roasted 
-Soops of spinage 
-Soops of carrots 
-Soops of artichocks 
-Souce veal lamb, or mutton 
-Sparagus to keep all the year 
-Sparagus buttered 
-Spinage tart 
-Steak pye 
-Steak pyes the french way 
-Strawberry tart 
-Sturgeon boil'd 
-Sturgeon buttered 
-Sturgeon hashed 
-Sturgeon marinated 
-Sturgeon farced 
-Sturgeon whole in stoffado 
-Sturgeon souc't 
-Sturgeon broil'd 
-Sturgeon fryed 
-Sturgeon roasted 
-Sturgeon olines of it 
-Sturgeon baked 
-Sturgeon minc't pies 
-Sturgeon lumber pie 
-Sturgeon baked with farcings 
-Sturgeon olio 
-Sugar plate 
-Swans how to fat them 
-Sweet-bread pies 
-Tansey how to make 
-Taffety tart 
-Tart stuff of several colours 
-Tortelleti, or little pasties 
-Tosts how to make them 
-Toasts cinamon 
-Toasts the F
-Tortoise how to dress it 
-Tripes how to dress them 
-Trotter pie 
-Triffel how to make it 
-Turkish dish of meat 
-Turkey baked 
-Turkies how to fat them 
-Turbut boil'd 
-Turbut souc't 
-Turbut stewed or fryed 
-Veal breast farced 
-Veal breast boil'd 
-Veal breast roasted 
-Veal breast, loin, or rack baked 
-Veal leg boil'd 
-Veal leg farced 
-Veal chines boil'd 
-Veal loin roasted 
-Veal broil'd 
-Veal hashed 
-Veal farced 
-Venison broil'd 
-Venison tainted how to preserve it 
-Udders baked 
-Verjuyce how to make it 
-Vinegar to make it 
-Rose Vinegar 
-Pepper Vinegar 
-Umble pies 
-Warden tarts 
-Water for a Consumption 
-Wossel to make it 
-Wheat-ears how to feed them 
-Whip cream 
-Wheat leach of cream 
-White-pot to make it 
-Woodcocks boil'd 
-Woodcocks roasted 
-WHITE METHEGLIN OF MY LADY HUNGERFORD: WHICH IS EXCEEDINGLY PRAISED
-SOME NOTES ABOUT HONEY
-MR. CORSELLISES ANTWERP MEATH
-TO MAKE EXCELLENT MEATHE
-AN EXCELLENT WHITE MEATHE
-THE COUNTESS OF BULLINGBROOK'S WHITE METHEGLIN
-MR. WEBBES MEATH
-MY OWN CONSIDERATIONS FOR MAKING OF MEATHE
-SACK WITH CLOVE-GILLY FLOWERS
-METHEGLIN COMPOSED BY MY SELF OUT OF SUNDRY RECEIPTS
-MY LADY COWERS WHITE MEATHE USED AT SALISBURY
-SIR THOMAS GOWER'S METHEGLIN FOR HEALTH
-METHEGLIN FOR TASTE AND COLOUR
-AN EXCELLENT WAY OF MAKING WHITE METHEGLIN
-ANOTHER WAY OF MAKING WHITE METHEGLIN
-ANOTHER WAY
-TO MAKE WHITE METHEGLIN
-STRONG MEAD
-MY LORD HOLLIS HYDROMEL
-HYDROMEL AS I MADE IT WEAK FOR THE QUEEN MOTHER
-SEVERAL WAYS OF MAKING METHEGLIN
-MY LADY MORICES MEATH
-MY LADY MORICE HER SISTER MAKES HER'S THUS:
-TO MAKE WHITE MEATH
-SIR WILLIAM PASTON'S MEATHE
-ANOTHER PLEASANT MEATHE OF SIR WILLIAM PASTON'S
-ANOTHER WAY OF MAKING MEATH
+Olio Podrida. 
+Olines of Beef. 
+Olines of a Leg of Veal. 
+Oline pye. 
+Olines how to feed them. 
+Oatmeal Caudle. 
+Omlets of Eggs. 
+Onions buttered. 
+Oysters stewed the french way. 
+Oysters stewed otherways. 
+Oyster pottage. 
+Oysters hashed. 
+Oysters marinated. 
+Oysters in stoffado. 
+Oysters jellied. 
+Oysters pickled. 
+Oysters souc't. 
+Oysters roasted. 
+Oysters broil'd. 
+Oysters fryed. 
+Oysters baked. 
+Oyster mince pies. 
+Oxe cheeks boil'd. 
+Oxe cheeks in stoffado. 
+Oxe cheeks baked. 
+Partridge hashed. 
+Partridge how to feed them. 
+Paste how to make it. 
+Paste royal. 
+Paste for made dishes in Lent. 
+Puff-paste. 
+Paste of Violets, Cowslips.
+Paste for a Consumption. 
+Pallets of Oxe how to dress them. 
+Pallit pottage. 
+Pallets rosted. 
+Pallets in Jellies. 
+Pallets bak't. 
+Pancakes. 
+Panadoes. 
+Pap. 
+Pease tarts. 
+Pease cod dish in Puff paste. 
+Pease pottage. 
+Peaches preserved. 
+Pewets to nourish them. 
+Pheasants how to feed them. 
+Pheasant baked. 
+Pinemolet. 
+Pie extraordinary, or a bride pye. 
+Pie of pippins. 
+Pippins preserved. 
+Pig roasted with hair on. 
+Pig roasted otherways. 
+Pig souc't. 
+Pig jellied. 
+Pig distilled against a Consumption. 
+Pigeons boil'd. 
+Pigeons baked. 
+Pike boil'd. 
+Pike stewed. 
+Pike hashed. 
+Pike souc't. 
+Pike jellied. 
+Pike roasted. 
+Pike fried. 
+Pike boil'd. 
+Pike bak't. 
+Plumb cream. 
+Plaice boil'd or stewed. 
+Plovers how to feed them. 
+Pork boil'd. 
+Pork roasted. 
+Pottages. 
+Pottage in the french fashion. 
+Pottage without any sight of herbs. 
+Pottage called skink. 
+Pottage of ellicksanders. 
+Pottage of onions. 
+Pottage of almonds. 
+Pottage of grewel. 
+Pottage of rice. 
+Pottage of milk. 
+Potatoes baked. 
+Portugal tarts for banquettings. 
+Posset how to make it. 
+Posset of Sack. 
+Posset compounded. 
+Posset simple. 
+Posset of herbs. 
+Puffs the French way. 
+Prawns stewed. 
+Preserved green fruits. 
+Pudding of several sorts. 
+Pudding of Turkey or Capon. 
+Puddings of Liver. 
+Puddings of heifers udder. 
+Puddings black. 
+Pudding in a breast of Veal. 
+Pudding boil'd. 
+Pudding of cream. 
+Pudding of sweet herbs. 
+Pudding in hast. 
+Pudding quaking. 
+Pudding shaking. 
+Pudding of rice. 
+Pudding of cinamon. 
+Pudding haggas. 
+Pudding cheveridge. 
+Pudding liveridge. 
+Pudding of swan or goose. 
+Pudding of wine in guts. 
+Pudding in the Italian Fashion. 
+Pudding the French way. 
+Pudding of swine lights. 
+Pudding of oatmeal. 
+Pudding pyes of oatmeal. 
+Pudding baked. 
+Puddings white. 
+Pullets stewed against a Consumption. 
+Pyramides cream. 
+Quinces pickled. 
+Quince Pyes. 
+Quince tarts. 
+Quince cream. 
+Quinces buttered. 
+Quodling pye. 
+Quails how to feed them. 
+Rasberies preserv'd. 
+Rabbits hashed. 
+Restorative for a weak back. 
+Rice tart. 
+Rice cream. 
+Rice buttered. 
+Roots farced. 
+Sauce for green geese. 
+Sauce for Land fowl. 
+Sauce for roast mutton. 
+Sauce for roast veal. 
+Sauce for red deer. 
+Sauce for Rabbits. 
+Sauce for Hens. 
+Sauce for Chickens. 
+Sauce for Pidgeons. 
+Sauce for a Goose. 
+Sauce for a Duck. 
+Sauce for a Sea Fowl. 
+Sauce for roast Salmon. 
+Sausages. 
+Sausages Bolonia. 
+Sausage for jelly. 
+Sallet grand of minc't fowl. 
+Sallet grand of divers compound. 
+Sallet of scurvy grass. 
+Sallet of elixander buds. 
+Scoch collops of mutton. 
+Salmon calvered. 
+Salmon stewed. 
+Salmon pickled. 
+Salmon hashed. 
+Salmon marinated. 
+Salmon in stoffado. 
+Salmon fryed. 
+Salmon roasted. 
+Salmon broil'd or roasted in stoffado.. 
+Salmon baked. 
+Salmon, chewits, or minced pyes. 
+Salmon Lumber pye. 
+Sack cream. 
+Stone cream. 
+Snow cream. 
+Scollops stewed. 
+Sea fowl bak'd. 
+Silabub an excellent way. 
+Shell bread. 
+Snails stewed. 
+Snails fryed. 
+Snails hashed. 
+Snails in pottage. 
+Snaile back'd. 
+Snites boil'd. 
+Soals boil'd. 
+Soals stewed. 
+Soals souc'd. 
+Soals jellied. 
+Soals roasted. 
+Soops of spinage. 
+Soops of carrots. 
+Soops of artichocks. 
+Souce veal lamb, or mutton. 
+Sparagus to keep all the year. 
+Sparagus buttered. 
+Spinage tart. 
+Steak pye. 
+Steak pyes the french way. 
+Strawberry tart. 
+Sturgeon boil'd. 
+Sturgeon buttered. 
+Sturgeon hashed. 
+Sturgeon marinated. 
+Sturgeon farced. 
+Sturgeon whole in stoffado. 
+Sturgeon souc't. 
+Sturgeon broil'd. 
+Sturgeon fryed. 
+Sturgeon roasted. 
+Sturgeon olines of it. 
+Sturgeon baked. 
+Sturgeon minc't pies. 
+Sturgeon lumber pie. 
+Sturgeon baked with farcings. 
+Sturgeon olio. 
+Sugar plate. 
+Swans how to fat them. 
+Sweet-bread pies. 
+Tansey how to make. 
+Taffety tart. 
+Tart stuff of several colours. 
+Tortelleti, or little pasties. 
+Tosts how to make them. 
+Toasts cinamon. 
+Toasts the F.
+Tortoise how to dress it. 
+Tripes how to dress them. 
+Trotter pie. 
+Triffel how to make it. 
+Turkish dish of meat. 
+Turkey baked. 
+Turkies how to fat them. 
+Turbut boil'd. 
+Turbut souc't. 
+Turbut stewed or fryed. 
+Veal breast farced. 
+Veal breast boil'd. 
+Veal breast roasted. 
+Veal breast, loin, or rack baked. 
+Veal leg boil'd. 
+Veal leg farced. 
+Veal chines boil'd. 
+Veal loin roasted. 
+Veal broil'd. 
+Veal hashed. 
+Veal farced. 
+Venison broil'd. 
+Venison tainted how to preserve it. 
+Udders baked. 
+Verjuyce how to make it. 
+Vinegar to make it. 
+Rose Vinegar. 
+Pepper Vinegar. 
+Umble pies. 
+Warden tarts. 
+Water for a Consumption. 
+Wossel to make it. 
+Wheat-ears how to feed them. 
+Whip cream. 
+Wheat leach of cream. 
+White-pot to make it. 
+Woodcocks boil'd. 
+Woodcocks roasted. 
+WHITE METHEGLIN OF MY LADY HUNGERFORD: WHICH IS EXCEEDINGLY PRAISED.
+SOME NOTES ABOUT HONEY.
+MR. CORSELLISES ANTWERP MEATH.
+TO MAKE EXCELLENT MEATHE.
+AN EXCELLENT WHITE MEATHE.
+THE COUNTESS OF BULLINGBROOK'S WHITE METHEGLIN.
+MR. WEBBES MEATH.
+MY OWN CONSIDERATIONS FOR MAKING OF MEATHE.
+SACK WITH CLOVE-GILLY FLOWERS.
+METHEGLIN COMPOSED BY MY SELF OUT OF SUNDRY RECEIPTS.
+MY LADY COWERS WHITE MEATHE USED AT SALISBURY.
+SIR THOMAS GOWER'S METHEGLIN FOR HEALTH.
+METHEGLIN FOR TASTE AND COLOUR.
+AN EXCELLENT WAY OF MAKING WHITE METHEGLIN.
+ANOTHER WAY OF MAKING WHITE METHEGLIN.
+ANOTHER WAY.
+TO MAKE WHITE METHEGLIN.
+STRONG MEAD.
+MY LORD HOLLIS HYDROMEL.
+HYDROMEL AS I MADE IT WEAK FOR THE QUEEN MOTHER.
+SEVERAL WAYS OF MAKING METHEGLIN.
+MY LADY MORICES MEATH.
+MY LADY MORICE HER SISTER MAKES HER'S THUS.:
+TO MAKE WHITE MEATH.
+SIR WILLIAM PASTON'S MEATHE.
+ANOTHER PLEASANT MEATHE OF SIR WILLIAM PASTON'S.
+ANOTHER WAY OF MAKING MEATH.
 SIR BAYNAM THROCKMORTON'S MEATHE.
-TO MAKE WHITE METHEGLIN
-MY LADY BELLASSISES MEATH
-ANOTHER METHEGLIN
-MR. PIERCE'S EXCELLENT WHITE METHEGLIN
-AN EXCELLENT WAY TO MAKE METHEGLIN, CALLED THE LIQUOR OF LIFE, WITH THESE
-FOLLOWING INGREDIENTS
-TO MAKE GOOD METHEGLIN
-TO MAKE WHITE METHEGLIN OF SIR JOHN FORTESCUE
-MY LORD GORGE HIS MEATHE
-THE LADY VERNON'S WHITE METHEGLIN
-SEVERAL SORTS OF MEATH, SMALL AND STRONG
-TO MAKE MEATH
-SIR JOHN ARUNDEL'S WHITE MEATH
-TO MAKE METHEGLIN
-TO MAKE WHITE MEATH
-TO MAKE A MEATH GOOD FOR THE LIVER AND LUNGS
-TO MAKE WHITE METHEGLIN
-TO MAKE WHITE METHEGLIN
-TO MAKE WHITE METHEGLIN OF THE COUNTESS OF DORSET
-ANOTHER WAY TO MAKE WHITE METHEGLIN
-ANOTHER TO MAKE MEATH
-ANOTHER RECIPE
-TO MAKE METHEGLIN
-ANOTHER SORT OF METHEGLIN
-MY LORD HERBERT'S MEATH
-ANOTHER WHITE MEATH
-TO MAKE METHEGLIN
-TO MAKE SMALL METHEGLIN
-TO MAKE METHEGLIN
-AN EXCELLENT METHEGLIN
-TO MAKE WHITE MEATHE
-ANOTHER TO MAKE MEATHE
-ANOTHER VERY GOOD WHITE MEATH
-TO MAKE WHITE METHEGLIN
-TO MAKE WHITE MEATH
-TO MAKE METHEGLIN
-ANOTHER SORT OF MEATH
-TO MAKE VERY GOOD METHEGLIN
-TO MAKE MEATH
-TO MAKE WHITE MEATH
-TO MAKE SMALL WHITE MEATH
-TO MAKE METHEGLIN
-MEATH FROM THE MUSCOVIAN AMBASSADOUR'S STEWARD
-TO MAKE MEATH
-TO MAKE METHEGLIN
-TO MAKE HONEY DRINK
-THE EARL OF DENBIGH'S METHEGLIN
-TO MAKE MEATH
-TO MAKE METHEGLIN
-ANOTHER MEATH
-ANOTHER
-ANOTHER
-ANOTHER RECEIPT
-TO MAKE METHEGLIN THAT LOOKS LIKE WHITE-WINE
-TO MAKE WHITE METHEGLIN
-TO MAKE A SMALL METHEGLIN
-TO MAKE MEATH
-METHEGLIN OR SWEET DRINK OF MY LADY STUART
-ANOTHER OF THE SAME LADY
-TO MAKE METHEGLIN
-MEATH WITH RAISINS
-MORELLO WINE
-CURRANTS-WINE
-SCOTCH ALE FROM MY LADY HOLMBEY
-TO MAKE ALE DRINK QUICK
-TO MAKE CIDER
-SIR PAUL NEALE'S WAY OF MAKING CIDER
-DOCTOR HARVEY'S PLEASANT WATER-CIDER, WHEREOF HE USED TO DRINK MUCH, MAKING
-IT HIS ORDINARY DRINK
-ALE WITH HONEY
-SMALL ALE FOR THE STONE
-APPLE DRINK WITH SUGAR, HONEY, &c
-TO MAKE STEPPONI
-WEAK HONEY-DRINK
-MR. WEBB'S ALE AND BRAGOT
-THE COUNTESS OF NEWPORT'S CHERRY WINE
-STRAWBERRY WINE
-TO MAKE WINE OF CHERRIES ALONE
-OF COOKERY
-TO MAKE A SACK POSSET
-ANOTHER
-MY LORD OF CARLILE'S SACK-POSSET
-AN EXCELLENT SPANISH CREAM
-ANOTHER CLOUTED CREAM
-MY LORD OF S. ALBAN'S CRESME FOUETTEE
-TO MAKE THE CREAM CURDS
-TO MAKE CLOUTED CREAM
-TO MAKE A WHIP SYLLABUB
-TO MAKE A PLAIN SYLLABUB
-CONCERNING POTAGES
-PLAIN SAVOURY ENGLISH POTAGE
-POTAGE DE BLANC DE CHAPON
-TO MAKE SPINAGE-BROTH
-ORDINARY POTAGE
-BARLEY POTAGE
-STEWED BROTH
-AN ENGLISH POTAGE
-ANOTHER POTAGE
-PORTUGAL BROTH, AS IT WAS MADE FOR THE QUEEN
-NOURISSANT POTAGE DE SANTÉ
-POTAGE DE SANTÉ
-POTAGE DE SANTÉ
-POTAGE DE SANTÉ
-TEA WITH EGGS
-NOURISHING BROTH
-GOOD NOURISHING POTAGE
-WHEATEN FLOMMERY
-PAP OF OAT-MEAL
-PANADO
-BARLEY PAP
-OAT-MEAL PAP. SIR JOHN COLLADON
-RICE AND ORGE MONDÉ
-SMALLAGE GRUEL
-ABOUT WATER GRUEL
-AN EXCELLENT AND WHOLESOME WATER-GRUEL WITH WOOD-SORREL AND CURRANTS
-THE QUEENS BARLEY-CREAM
-PRESSIS NOURISSANT
-BROTH AND POTAGE
-PAN COTTO
-MY LORD LUMLEY'S PEASE-PORAGE
-BROTH FOR SICK AND CONVALESCENT PERSONS
-AN EXCELLENT POSSET
-PEASE OF THE SEEDY BUDS OF TULIPS
-BOILED RICE DRY
-MARROW SOPS WITH WINE
-CAPON IN WHITE-BROTH
-TO BUTTER EGGS WITH CREAM
-TO MAKE COCK-ALE
-TO MAKE PLAGUE-WATER
-ANOTHER PLAGUE-WATER
-TO MAKE RASBERY-WINE
-TO KEEP QUINCE ALL THE YEAR GOOD
-TO MAKE A WHITE-POT
-TO MAKE AN HOTCHPOT
-ANOTHER HOTCHPOT
-TO STEW BEEF
-ANOTHER TO STEW BEEF
-TO STEW A BREAST OF VEAL
-SAUCE OF HORSE RADISH
-THE QUEENS HOTCHPOT FROM HER ESCUYER DE CUISINE, MR. LA MONTAGUE
-AN EXCELLENT BAKED PUDDING
-MY LADY OF PORTLAND'S MINCED PYES
-ANOTHER WAY OF MAKING EXCELLENT MINCED PYES OF MY LADY PORTLANDS
-MINCED PYES
-TO ROST FINE MEAT
-SAVOURY COLLOPS OF VEAL
-EXCELLENT MARROW-SPINAGE-PASTIES
-TO PICKLE CAPONS MY LADY PORTLAND'S WAY
-VERY GOOD SAUCE FOR PARTRIDGES OR CHICKEN
-TO MAKE MINCED PYES
-TO MAKE A FRENCH BARLEY POSSET
-TO MAKE PUFF-PAST
-TO MAKE A PUDDING WITH PUFF-PAST
-TO MAKE PEAR-PUDDINGS
-MARROW-PUDDINGS
-TO MAKE RED DEAR
-TO MAKE A SHOULDER OF MUTTON LIKE VENISON
-TO STEW A RUMP OF BEEF
-TO BOIL SMOAKED FLESH
-VUOVA LATTATE
-VUOVA SPERSA
-TO MAKE EXCELLENT BLACK-PUDDINGS
-TO MAKE AN EXCELLENT PUDDING
-SCOTCH COLLOPS
-TO ROST WILD-BOAR
-PYES
-BAKED VENISON
-AN EXCELLENT WAY OF MAKING MUTTON STEAKS
-EXCELLENT GOOD COLLOPS
-BLACK PUDDINGS
-TO MAKE PITH PUDDINGS
-RED-HERRINGS BROYLED
-AN OAT-MEAL-PUDDING
-TO MAKE PEAR-PUDDINGS
-TO MAKE CALL-PUDDINGS
-TO MAKE A BAKED OATMEAL-PUDDING
-ANOTHER BAKED PUDDING
-TO MAKE BLACK PUDDINGS
-TO PRESERVE PIPPINS IN JELLY, EITHER IN QUARTERS, OR IN SLICES
-MY LADY DIANA PORTER'S SCOTCH COLLOPS
-TO STEW OYSTERS
-TO DRESS LAMPREY'S
-TO DRESS STOCK FISH, SOMEWHAT DIFFERINGLY FROM THE WAY OF HOLLAND
-BUTTERED WHITINGS WITH EGGS
-TO DRESS POOR-JOHN AND BUCKORN
-THE WAY OF DRESSING STOCK-FISH IN HOLLAND
-ANOTHER WAY TO DRESS STOCK-FISH
-TO DRESS PARSNEPS
-CREAM WITH RICE
-GREWEL OF OAT-MEAL AND RICE
-SAUCE FOR A CARP OR PIKE. TO BUTTER PEASE
-BUTTER AND OIL TO FRY FISH
-TO PREPARE SHRIMPS FOR DRESSING
-TOSTS OF VEAL
-TO MAKE MUSTARD
-TO MAKE A WHITE-POT
-FOR ROSTING OF MEAT
-TO STEW A RUMP OF BEEF
-TO STEW A RUMP OF BEEF
-PICKLED CHAMPIGNONS
-TO STEW WARDENS OR PEARS
-TO STEW APPLES
-PORTUGUEZ EGGS
-TO BOIL EGGS
-TO MAKE CLEAR GELLY OF BRAN
-TO BAKE VENISON
-TO BAKE VENISON TO KEEP
-ABOUT MAKING OF BRAWN
-SALLET OF COLD CAPON ROSTED
-MUTTON BAKED LIKE VENISON, SOAKING EITHER IN THEIR BLOOD
-TO MAKE AN EXCELLENT HARE-PYE
-TO BAKE BEEF
-TO BAKE PIDGEONS, (WHICH ARE THUS EXCELLENT, AND WILL KEEP A QUARTER OF A
-YEAR) OR TEALS, OR WILD-DUCKS
-GREEN-GEESE-PYE
-TO BOIL BEEF OR VENISON TENDER AND SAVOURY
-TO BAKE WILDE-DUCKS OR TEALS
-TO SEASON HUMBLE-PYES: AND TO ROST WILDE-DUCKS
-TO SOUCE TURKEYS
-AN EXCELLENT MEAT OF GOOSE OR TURKEY
-TO PICKLE AN OLD FAT GOOSE
-ABOUT ORDERING BACON FOR GAMBONS, AND TO KEEP
-TO MAKE A TANSEY
-ANOTHER WAY
-TO MAKE CHEESE-CAKES
-SHORT AND CRISP CRUST FOR TARTS AND PYES
-TO MAKE A CAKE
-ANOTHER CAKE
-TO MAKE A PLUMB-CAKE
-TO MAKE AN EXCELLENT CAKE
-TO MAKE BISKET
-TO MAKE A CARAWAY-CAKE
-ANOTHER VERY GOOD CAKE
-EXCELLENT SMALL CAKES
-MY LORD OF DENBIGH'S ALMOND MARCH-PANE
-TO MAKE SLIPP COAT CHEESE
-TO MAKE SLIPP-COAT-CHEESE
-SLIPP-COAT CHEESE
-TO MAKE A SCALDED CHEESE
-THE CREAM-COURDS
-SAVOURY TOSTED OR MELTED CHEESE
-TO FEED CHICKEN
-TO FEED POULTRY
-ANOTHER WAY OF FEEDING CHICKEN
-TO FATTEN YOUNG CHICKENS IN A WONDERFULL DEGREE
-TO FEED CHICKEN
-ANOTHER EXCELLENT WAY TO FATTEN CHICKEN
-AN EXCELLENT WAY TO CRAM CHICKEN
-TO FEED PARTRIDGES THAT YOU HAVE TAKEN WILDE
-TO MAKE PUFFS
-APPLES IN GELLY
-SYRUP OF PIPPINS
-GELLY OF PIPPINS OR JOHN-APPLES
-PRESERVED WARDENS
-SWEET MEAT OF APPLES
-PLEASANT CORDIAL TABLETS, WHICH ARE VERY COMFORTING, AND STRENGTHEN NATURE
-MUCH
-TO MAKE HARTS-HORN GELLY
-HARTS-HORN GELLY
-TO MAKE HARTS-HORN GELLY
-ANOTHER WAY TO MAKE HARTS-HORN-GELLY
-MARMULATE OF PIPPINS
-GELLY OF QUINCES
-PRESERVED QUINCE WITH GELLY
-TO MAKE FINE WHITE GELLY OF QUINCES
-WHITE MARMULATE, THE QUEENS WAY
-MY LADY OF BATH'S WAY
-PASTE OF QUINCES
-PASTE OF QUINCES WITH VERY LITTLE SUGAR
-ANOTHER PASTE OF QUINCES
-MARMULATE OF CHERRIES
-MARMULATE OF CHERRIES WITH JUYCE OF RASPES AND CURRANTS
-TO MAKE AN EXCELLENT SYRUP OF APPLES
-SWEET-MEATS OF MY LADY WINDEBANKS
-GELLY OF RED CURRANTS
-GELLY OF CURRANTS, WITH THE FRUIT WHOLE IN IT
-MARMULATE OF RED CURRANTS
-SUCKET OF MALLOW STALKS
-CONSERVE OF RED ROSES
-ANOTHER CONSERVE OF ROSES
-THE TABLE
-APPENDIX I
-SOME ADDITIONAL RECEIPTS
-THE VERTUES OF THE PRECEDENT WATER
-A RECEIPT FOR MAKING OF MEATH
+TO MAKE WHITE METHEGLIN.
+MY LADY BELLASSISES MEATH.
+ANOTHER METHEGLIN.
+MR. PIERCE'S EXCELLENT WHITE METHEGLIN.
+AN EXCELLENT WAY TO MAKE METHEGLIN, CALLED THE LIQUOR OF LIFE, WITH THESE.
+FOLLOWING INGREDIENTS.
+TO MAKE GOOD METHEGLIN.
+TO MAKE WHITE METHEGLIN OF SIR JOHN FORTESCUE.
+MY LORD GORGE HIS MEATHE.
+THE LADY VERNON'S WHITE METHEGLIN.
+SEVERAL SORTS OF MEATH, SMALL AND STRONG.
+TO MAKE MEATH.
+SIR JOHN ARUNDEL'S WHITE MEATH.
+TO MAKE METHEGLIN.
+TO MAKE WHITE MEATH.
+TO MAKE A MEATH GOOD FOR THE LIVER AND LUNGS.
+TO MAKE WHITE METHEGLIN.
+TO MAKE WHITE METHEGLIN.
+TO MAKE WHITE METHEGLIN OF THE COUNTESS OF DORSET.
+ANOTHER WAY TO MAKE WHITE METHEGLIN.
+ANOTHER TO MAKE MEATH.
+ANOTHER RECIPE.
+TO MAKE METHEGLIN.
+ANOTHER SORT OF METHEGLIN.
+MY LORD HERBERT'S MEATH.
+ANOTHER WHITE MEATH.
+TO MAKE METHEGLIN.
+TO MAKE SMALL METHEGLIN.
+TO MAKE METHEGLIN.
+AN EXCELLENT METHEGLIN.
+TO MAKE WHITE MEATHE.
+ANOTHER TO MAKE MEATHE.
+ANOTHER VERY GOOD WHITE MEATH.
+TO MAKE WHITE METHEGLIN.
+TO MAKE WHITE MEATH.
+TO MAKE METHEGLIN.
+ANOTHER SORT OF MEATH.
+TO MAKE VERY GOOD METHEGLIN.
+TO MAKE MEATH.
+TO MAKE WHITE MEATH.
+TO MAKE SMALL WHITE MEATH.
+TO MAKE METHEGLIN.
+MEATH FROM THE MUSCOVIAN AMBASSADOUR'S STEWARD.
+TO MAKE MEATH.
+TO MAKE METHEGLIN.
+TO MAKE HONEY DRINK.
+THE EARL OF DENBIGH'S METHEGLIN.
+TO MAKE MEATH.
+TO MAKE METHEGLIN.
+ANOTHER MEATH.
+ANOTHER.
+ANOTHER.
+ANOTHER RECEIPT.
+TO MAKE METHEGLIN THAT LOOKS LIKE WHITE-WINE.
+TO MAKE WHITE METHEGLIN.
+TO MAKE A SMALL METHEGLIN.
+TO MAKE MEATH.
+METHEGLIN OR SWEET DRINK OF MY LADY STUART.
+ANOTHER OF THE SAME LADY.
+TO MAKE METHEGLIN.
+MEATH WITH RAISINS.
+MORELLO WINE.
+CURRANTS-WINE.
+SCOTCH ALE FROM MY LADY HOLMBEY.
+TO MAKE ALE DRINK QUICK.
+TO MAKE CIDER.
+SIR PAUL NEALE'S WAY OF MAKING CIDER.
+DOCTOR HARVEY'S PLEASANT WATER-CIDER, WHEREOF HE USED TO DRINK MUCH, MAKING.
+IT HIS ORDINARY DRINK.
+ALE WITH HONEY.
+SMALL ALE FOR THE STONE.
+APPLE DRINK WITH SUGAR, HONEY, &c.
+TO MAKE STEPPONI.
+WEAK HONEY-DRINK.
+MR. WEBB'S ALE AND BRAGOT.
+THE COUNTESS OF NEWPORT'S CHERRY WINE.
+STRAWBERRY WINE.
+TO MAKE WINE OF CHERRIES ALONE.
+OF COOKERY.
+TO MAKE A SACK POSSET.
+ANOTHER.
+MY LORD OF CARLILE'S SACK-POSSET.
+AN EXCELLENT SPANISH CREAM.
+ANOTHER CLOUTED CREAM.
+MY LORD OF S. ALBAN'S CRESME FOUETTEE.
+TO MAKE THE CREAM CURDS.
+TO MAKE CLOUTED CREAM.
+TO MAKE A WHIP SYLLABUB.
+TO MAKE A PLAIN SYLLABUB.
+CONCERNING POTAGES.
+PLAIN SAVOURY ENGLISH POTAGE.
+POTAGE DE BLANC DE CHAPON.
+TO MAKE SPINAGE-BROTH.
+ORDINARY POTAGE.
+BARLEY POTAGE.
+STEWED BROTH.
+AN ENGLISH POTAGE.
+ANOTHER POTAGE.
+PORTUGAL BROTH, AS IT WAS MADE FOR THE QUEEN.
+NOURISSANT POTAGE DE SANTÉ.
+POTAGE DE SANTÉ.
+POTAGE DE SANTÉ.
+POTAGE DE SANTÉ.
+TEA WITH EGGS.
+NOURISHING BROTH.
+GOOD NOURISHING POTAGE.
+WHEATEN FLOMMERY.
+PAP OF OAT-MEAL.
+PANADO.
+BARLEY PAP.
+OAT-MEAL PAP. SIR JOHN COLLADON.
+RICE AND ORGE MONDÉ.
+SMALLAGE GRUEL.
+ABOUT WATER GRUEL.
+AN EXCELLENT AND WHOLESOME WATER-GRUEL WITH WOOD-SORREL AND CURRANTS.
+THE QUEENS BARLEY-CREAM.
+PRESSIS NOURISSANT.
+BROTH AND POTAGE.
+PAN COTTO.
+MY LORD LUMLEY'S PEASE-PORAGE.
+BROTH FOR SICK AND CONVALESCENT PERSONS.
+AN EXCELLENT POSSET.
+PEASE OF THE SEEDY BUDS OF TULIPS.
+BOILED RICE DRY.
+MARROW SOPS WITH WINE.
+CAPON IN WHITE-BROTH.
+TO BUTTER EGGS WITH CREAM.
+TO MAKE COCK-ALE.
+TO MAKE PLAGUE-WATER.
+ANOTHER PLAGUE-WATER.
+TO MAKE RASBERY-WINE.
+TO KEEP QUINCE ALL THE YEAR GOOD.
+TO MAKE A WHITE-POT.
+TO MAKE AN HOTCHPOT.
+ANOTHER HOTCHPOT.
+TO STEW BEEF.
+ANOTHER TO STEW BEEF.
+TO STEW A BREAST OF VEAL.
+SAUCE OF HORSE RADISH.
+THE QUEENS HOTCHPOT FROM HER ESCUYER DE CUISINE, MR. LA MONTAGUE.
+AN EXCELLENT BAKED PUDDING.
+MY LADY OF PORTLAND'S MINCED PYES.
+ANOTHER WAY OF MAKING EXCELLENT MINCED PYES OF MY LADY PORTLANDS.
+MINCED PYES.
+TO ROST FINE MEAT.
+SAVOURY COLLOPS OF VEAL.
+EXCELLENT MARROW-SPINAGE-PASTIES.
+TO PICKLE CAPONS MY LADY PORTLAND'S WAY.
+VERY GOOD SAUCE FOR PARTRIDGES OR CHICKEN.
+TO MAKE MINCED PYES.
+TO MAKE A FRENCH BARLEY POSSET.
+TO MAKE PUFF-PAST.
+TO MAKE A PUDDING WITH PUFF-PAST.
+TO MAKE PEAR-PUDDINGS.
+MARROW-PUDDINGS.
+TO MAKE RED DEAR.
+TO MAKE A SHOULDER OF MUTTON LIKE VENISON.
+TO STEW A RUMP OF BEEF.
+TO BOIL SMOAKED FLESH.
+VUOVA LATTATE.
+VUOVA SPERSA.
+TO MAKE EXCELLENT BLACK-PUDDINGS.
+TO MAKE AN EXCELLENT PUDDING.
+SCOTCH COLLOPS.
+TO ROST WILD-BOAR.
+PYES.
+BAKED VENISON.
+AN EXCELLENT WAY OF MAKING MUTTON STEAKS.
+EXCELLENT GOOD COLLOPS.
+BLACK PUDDINGS.
+TO MAKE PITH PUDDINGS.
+RED-HERRINGS BROYLED.
+AN OAT-MEAL-PUDDING.
+TO MAKE PEAR-PUDDINGS.
+TO MAKE CALL-PUDDINGS.
+TO MAKE A BAKED OATMEAL-PUDDING.
+ANOTHER BAKED PUDDING.
+TO MAKE BLACK PUDDINGS.
+TO PRESERVE PIPPINS IN JELLY, EITHER IN QUARTERS, OR IN SLICES.
+MY LADY DIANA PORTER'S SCOTCH COLLOPS.
+TO STEW OYSTERS.
+TO DRESS LAMPREY'S.
+TO DRESS STOCK FISH, SOMEWHAT DIFFERINGLY FROM THE WAY OF HOLLAND.
+BUTTERED WHITINGS WITH EGGS.
+TO DRESS POOR-JOHN AND BUCKORN.
+THE WAY OF DRESSING STOCK-FISH IN HOLLAND.
+ANOTHER WAY TO DRESS STOCK-FISH.
+TO DRESS PARSNEPS.
+CREAM WITH RICE.
+GREWEL OF OAT-MEAL AND RICE.
+SAUCE FOR A CARP OR PIKE. TO BUTTER PEASE.
+BUTTER AND OIL TO FRY FISH.
+TO PREPARE SHRIMPS FOR DRESSING.
+TOSTS OF VEAL.
+TO MAKE MUSTARD.
+TO MAKE A WHITE-POT.
+FOR ROSTING OF MEAT.
+TO STEW A RUMP OF BEEF.
+TO STEW A RUMP OF BEEF.
+PICKLED CHAMPIGNONS.
+TO STEW WARDENS OR PEARS.
+TO STEW APPLES.
+PORTUGUEZ EGGS.
+TO BOIL EGGS.
+TO MAKE CLEAR GELLY OF BRAN.
+TO BAKE VENISON.
+TO BAKE VENISON TO KEEP.
+ABOUT MAKING OF BRAWN.
+SALLET OF COLD CAPON ROSTED.
+MUTTON BAKED LIKE VENISON, SOAKING EITHER IN THEIR BLOOD.
+TO MAKE AN EXCELLENT HARE-PYE.
+TO BAKE BEEF.
+TO BAKE PIDGEONS, (WHICH ARE THUS EXCELLENT, AND WILL KEEP A QUARTER OF A YEAR) OR TEALS, OR WILD-DUCKS.
+GREEN-GEESE-PYE.
+TO BOIL BEEF OR VENISON TENDER AND SAVOURY.
+TO BAKE WILDE-DUCKS OR TEALS.
+TO SEASON HUMBLE-PYES: AND TO ROST WILDE-DUCKS.
+TO SOUCE TURKEYS.
+AN EXCELLENT MEAT OF GOOSE OR TURKEY.
+TO PICKLE AN OLD FAT GOOSE.
+ABOUT ORDERING BACON FOR GAMBONS, AND TO KEEP.
+TO MAKE A TANSEY.
+ANOTHER WAY.
+TO MAKE CHEESE-CAKES.
+SHORT AND CRISP CRUST FOR TARTS AND PYES.
+TO MAKE A CAKE.
+ANOTHER CAKE.
+TO MAKE A PLUMB-CAKE.
+TO MAKE AN EXCELLENT CAKE.
+TO MAKE BISKET.
+TO MAKE A CARAWAY-CAKE.
+ANOTHER VERY GOOD CAKE.
+EXCELLENT SMALL CAKES.
+MY LORD OF DENBIGH'S ALMOND MARCH-PANE.
+TO MAKE SLIPP COAT CHEESE.
+TO MAKE SLIPP-COAT-CHEESE.
+SLIPP-COAT CHEESE.
+TO MAKE A SCALDED CHEESE.
+THE CREAM-COURDS.
+SAVOURY TOSTED OR MELTED CHEESE.
+TO FEED CHICKEN.
+TO FEED POULTRY.
+ANOTHER WAY OF FEEDING CHICKEN.
+TO FATTEN YOUNG CHICKENS IN A WONDERFULL DEGREE.
+TO FEED CHICKEN.
+ANOTHER EXCELLENT WAY TO FATTEN CHICKEN.
+AN EXCELLENT WAY TO CRAM CHICKEN.
+TO FEED PARTRIDGES THAT YOU HAVE TAKEN WILDE.
+TO MAKE PUFFS.
+APPLES IN GELLY.
+SYRUP OF PIPPINS.
+GELLY OF PIPPINS OR JOHN-APPLES.
+PRESERVED WARDENS.
+SWEET MEAT OF APPLES.
+PLEASANT CORDIAL TABLETS, WHICH ARE VERY COMFORTING, AND STRENGTHEN NATURE.
+MUCH.
+TO MAKE HARTS-HORN GELLY.
+HARTS-HORN GELLY.
+TO MAKE HARTS-HORN GELLY.
+ANOTHER WAY TO MAKE HARTS-HORN-GELLY.
+MARMULATE OF PIPPINS.
+GELLY OF QUINCES.
+PRESERVED QUINCE WITH GELLY.
+TO MAKE FINE WHITE GELLY OF QUINCES.
+WHITE MARMULATE, THE QUEENS WAY.
+MY LADY OF BATH'S WAY.
+PASTE OF QUINCES.
+PASTE OF QUINCES WITH VERY LITTLE SUGAR.
+ANOTHER PASTE OF QUINCES.
+MARMULATE OF CHERRIES.
+MARMULATE OF CHERRIES WITH JUYCE OF RASPES AND CURRANTS.
+TO MAKE AN EXCELLENT SYRUP OF APPLES.
+SWEET-MEATS OF MY LADY WINDEBANKS.
+GELLY OF RED CURRANTS.
+GELLY OF CURRANTS, WITH THE FRUIT WHOLE IN IT.
+MARMULATE OF RED CURRANTS.
+SUCKET OF MALLOW STALKS.
+CONSERVE OF RED ROSES.
+ANOTHER CONSERVE OF ROSES.
+THE TABLE.
+APPENDIX I.
+SOME ADDITIONAL RECEIPTS.
+THE VERTUES OF THE PRECEDENT WATER.
+A RECEIPT FOR MAKING OF MEATH.
+To dry Angelica. 
+To preserve green Apricocks.
+To make Goosberry Clear-Cakes.
+To make Goosberry-Paste.
+To dry Goosberries.
+To preserve Goosberries.
+To dry Cherries.
+To make Cherry-Jam.
+To dry Cherries in Bunches.
+To preserve Cherries.
+To dry Currants in Bunches, &c.
+To make Currant Clear-Cakes.
+To preserve red Currants.
+To preserve white Currants.
+To preserve Rasberries.
+To make Jam of Rasberries.
+To make Rasberry Clear-Cakes.
+To make Rasberry-Drops.
+To dry Apricocks in Quarters or Halves.
+To make Paring-Chips.
+To preserve Apricocks.
+To make Apricock Clear-Cakes.
+To make Apricock-Paste.
+To make Apricock-Jam.
+To dry green Plums.
+To dry Amber, or any white Plums.
+or the _Great Moguls_.
+To preserve black Pear-Plums or Damascenes.
+To make white Pear-Plum Clear-Cakes.
+To make white Plum-Paste.
+To make red Plum Clear-Cakes.
+To make red Plum-Paste.
+To dry Peaches.
+To make Peach-Chips.
+To preserve or dry Nutmeg-Peaches.
+To dry green Figs.
+To dry black Figs.
+To preserve Grapes.
+To dry Barberries.
+To preserve Barberries.
+To make white Quince-Marmalet.
+To make red Quince-Marmalet.
+To preserve whole Quinces.
+To make Quince-Chips.
+To make Quince-Paste.
+To preserve Golden or _Kentish_-Pippins.
+To preserve whole Oranges or Lemmons.
+To dry Oranges in Knots, or Lemmons.
+To make _China_-Chips.
+To make Orange-Drops.
+To make Orange-Marmalet.
+To make Pomegranate Clear-Cakes.
+with the Meat in them.
+To preserve Citrons.
+To make Citron-Marmalet.
+To make Rock-Sugar.
+To make Fruit-Biscuit.
+To make all Sorts of Sugar-Paste.
+To make Chocolate-Almonds.
+of Cowslips.
+To make Bean'd-Bread.
+To make Orange or Lemmon-Puffs.
+To make Almond-Paste, either Bitter or Sweet.
+To make little round Ratafea-Puffs.
+To make Almond-Loaves.
+To make Chocolate-Puffs.
+To make all Sorts of Sugar-Puffs.
+To make long Biscuit.
+To make Spunge-Biscuit.
+To make round Biscuit with Coriander-Seeds.
+To make Hartshorn-Jelly.
+To make Butter'd Orange.
+To make Barley-Cream.
+To make Almond-Butter.
+To make all Sorts of Fruit-Cream.
+To make Blamange.
+Lemmon-Cream, made with Cream.
+To make Pistato-Cream.
+To make a very thick, raw Cream.
+To make Orange-Butter.
+To make Almond-Butter.
+To make Almond-Cream.
+To make Raw-Almond, or Ratafea-Cream.
+To make Sego-Cream.
+To make Hartshorn-Flummery.
+To make perfum'd Pastels.
+To burn Almonds.
+To candy little green Oranges.
+To make Caramel.
+To make a good Green.
+To scald all Sorts of Fruit.
+To dry ANGELICA.
+To preserve green APRICOCKS.
+To make Goosberry CLEAR-CAKES.
+To make GOOSBERRY-PASTE.
+To dry GOOSBERRIES.
+To preserve GOOSBERRIES.
+To dry CHERRIES.
+To make CHERRY-JAM.
+To dry CHERRIES without Sugar.
+To dry CHERRIES in Bunches.
+To make CHERRY-PASTE.
+To preserve CHERRIES.
+To dry CURRANTS in Bunches or loose Sprigs.
+To make CURRANT CLEAR-CAKES.
+To preserve RED CURRANTS.
+To make CURRANT-PASTE, either Red or White.
+To preserve WHITE CURRANTS.
+To preserve RASBERRIES.
+To make JAM of RASBERRIES.
+To make RASBERRY-PASTE.
+To make RASBERRY CLEAR-CAKES.
+To make RASBERRY-DROPS.
+To dry APRICOCKS.
+To dry APRICOCKS in Quarters or Halves.
+To make PARING-CHIPS.
+To preserve APRICOCKS.
+To make APRICOCK CLEAR-CAKES.
+To make APRICOCK-PASTE.
+To make APPLE-JELLY for all Sorts of SWEET-MEATS.
+To make APRICOCK-JAM.
+To preserve GREEN JENNITINS.
+To dry GREEN PLUMS.
+To dry AMBER, or any WHITE PLUMS.
+To dry BLACK PEAR-PLUMS, or MUSCLES, or the GREAT MOGULS.
+To preserve BLACK PEAR-PLUMS or DAMASCENES.
+To preserve WHITE PEAR-PLUMS.
+To make WHITE PEAR-PLUM CLEAR-CAKES.
+To make WHITE PLUM-PASTE.
+To make RED PLUM CLEAR-CAKES.
+To make RED PLUM-PASTE.
+To dry PLUMS like the FRENCH PLUMS, with Stones in them.
+To dry PEACHES.
+To make PEACH-CHIPS.
+To preserve or dry NUTMEG-PEACHES.
+To preserve CUCUMBERS.
+To dry GREEN FIGS.
+To dry BLACK FIGS.
+To preserve GRAPES.
+To dry GRAPES.
+To dry BARBERRIES.
+To preserve BARBERRIES.
+To make BARBERRY-DROPS.
+To make WHITE QUINCE-MARMALET.
+To make RED QUINCE-MARMALET.
+To preserve WHOLE QUINCES.
+To make QUINCE-CHIPS.
+To make QUINCE-PASTE.
+To make QUINCE CLEAR-CAKES.
+To preserve GOLDEN or KENTISH-PIPPINS.
+To preserve WHOLE ORANGES or LEMMONS.
+To dry ORANGES in KNOTS, or LEMMONS.
+To make CHINA CHIPS.
+Sevil Oranges will do the same Way, if you like them with a little
+To make ORANGE-PASTE.
+To make ORANGE-DROPS.
+To make ORANGE-MARMALET.
+To make ORANGE or LEMMON CLEAR-CAKES.
+To make POMEGRANATE CLEAR-CAKES.
+To make ORANGE-HALVES, or QUARTERS, with the Meat in them.
+To preserve CITRONS.
+To make CITRON MARMALET.
+To candy ORANGE-FLOWERS.
+To make ROCK-SUGAR.
+To make FRUIT-BISCUIT.
+To make all Sorts of SUGAR-PASTE.
+To make CHOCOLATE-ALMONDS.
+To make WORMWOOD-CAKES.
+To make HONEYCOMB-CAKES of ORANGE-FLOWER-VIOLET of COWSLIPS.
+To make ICE ALMOND-CAKES.
+To make BEAN'D-BREAD.
+To make ORANGE or LEMMON-PUFFS.
+To make LITTLE ROUND RATAFEA-PUFFS.
+To make BROWN-WAFERS.
+To make ALMOND-LOAVES.
+To make CHOCOLATE-PUFFS.
+To make all Sorts of SUGAR-PUFFS.
+To make ALMOND-PASTE.
+To make LONG-BISCUIT.
+To make SPUNGE-BISCUIT.
+To make round BISCUIT with CORIANDER SEEDS.
+To make HARTSHORN-JELLY.
+To make LEMMON-JELLY.
+To make BUTTER'D ORANGE.
+To make ERINGO-CREAM.
+To make BARLEY-CREAM.
+To make RATAFEA-CREAM.
+To make ALMOND-BUTTER.
+To make a TRIFLE.
+To make all Sorts of FRUIT-CREAM.
+To make SACK-POSSET, or SACK-CREAM.
+To make BLAMANGE.
+To make CITRON-CREAM.
+To make PISTATO-CREAM.
+To make CLOUTED-CREAM.
+To make a very thick, raw CREAM.
+To make SPANISH-BUTTER.
+To make ORANGE-BUTTER.
+To make ALMOND-BUTTER.
+To make TROUT-CREAM.
+To make ALMOND-CREAM.
+To make RAW-ALMOND, or RATAFEA-CREAM.
+To make CHOCOLATE-CREAM.
+To make SEGO-CREAM.
+To Ice CREAM.
+To make HARTSHORN-FLUMMERY.
+China Cups; when you use it, turn it out of the Cups, and eat it
+To make perfum'd PASTELS.
+To burn ALMONDS.
+To make LEMMON-WAFERS.
+To candy little GREEN-ORANGES.
+To candy COWSLIPS, or any FLOWERS or GREENS in BUNCHES.
+To make CARAMEL.
+To make a good GREEN.
+To sugar all Sorts of small FRUIT.
+To scald all Sorts of FRUIT.
