@@ -123,9 +123,6 @@ class WordChainer:
         sent = []
         sent.append(start_word.capitalize())
         while not next_word[-1] == '.':
-            if next_word == 'To':
-                sent[-1] = sent[-1] + '.'
-                break
             sent.append(next_word)
             next_word = self.links[next_word].choose_successor()
         else:
