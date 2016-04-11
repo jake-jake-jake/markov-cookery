@@ -9,7 +9,7 @@ import string
 class SuccessorDict(Counter):
     ''' Dictionary of successors following a word, with counts for weight.'''
     def __init__(self):
-        self.count =- 0
+        self.count = 0
         self.out_list = []
 
     def _make_out_list(self):
