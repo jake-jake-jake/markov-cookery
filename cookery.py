@@ -152,9 +152,12 @@ p = path.join('texts', '1600s')
 recipes.add_words(path.join(p, 'accomplisht_cook_STRIPPED.txt'))
 recipes.add_words(path.join(p, 'closet_of_sir_digby_STRIPPED.txt'))
 recipes.add_words(path.join(p, 'eales_receipts_STRIPPED.txt'))
+recipes.add_words(path.join(p, 'queen_like_closet_STRIPPED.txt'))
 titles.add_words(path.join(p, '1600s_titles.txt'))
 flickr = make_flickr_api('secrets.json')
 
 
 if __name__ == '__main__':
+    print('length of title dict:', len(titles.links))
+    print('length of recipe dict:', len(recipes.links))
     app.run()
