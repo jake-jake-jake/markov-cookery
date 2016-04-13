@@ -54,7 +54,7 @@ app.config.from_object(__name__)
 
 @app.route('/')
 def make_recipe():
-    title = titles.sentence()
+    title = titles.sentence()[:-1]
     recipe = ' '.join([recipes.sentence() for _ in range(3)])
     pic = image_from_title(title)
     return render_template('make_recipe.html', pic=pic, title=title, recipe=recipe)
