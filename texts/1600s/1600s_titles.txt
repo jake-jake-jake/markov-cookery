@@ -164,16 +164,9 @@ A Hash of a Leg of Mutton in the F.
 Another Hash of Mutton or Lamb, either hot or cold.
 Another Hash of a Joynt of Mutton or Lamb hot or cold.
 Other Hashes of a Shoulder of Mutton.
-C.
-C.
-C.
-Other C.
-C.
 Capilotado Francois.
 Other made Dishes, or little Pasties called in Italian T.
 Tortelleti, or little Pasties.
-T.
-T.
 Woodcocks or Snites.
 Boil Woodcocks or Larks otherways.
 To boil these Fowls otherways.
@@ -287,14 +280,12 @@ Several Sauces for roast Veal.
 To roast red Deer.
 Sauces for red Deer.
 To roast pork with the Sauces belonging to it.
-Sauces.
 To roast Pigs divers ways with their different sauces.
 To roast a Pig with the hair on.
 To dress a Pig the French way.
 To roast a Pig the plain way.
 To roast a Pig otherways.
 To roast Hares with their several stuffings and sauces.
-Sauce.
 To roast a Hare with the skin on.
 Several Sauces belonging to Rabits.
 To roast Woodcocks in the English Fashion.
@@ -309,7 +300,6 @@ Sauces for a young stubble Goose.
 Sauce for a Duck.
 Sauces for Duck and Mallard in the French fashion.
 Green Sauce for Pork, Goslings, Chickens, Lamb, or Kid.
-Or thus.
 To make divers sorts of Vinegar.
 To make Vinegar of corrupt Wine.
 To make Vinegar otherways.
@@ -373,7 +363,6 @@ French Toasts.
 The most Excellent Ways of making All sorts of Puddings.
 A boil'd Pudding.
 To boil a Pudding otherways.
-Other Pudding.
 To make a Cream Pudding to be boil'd.
 To make a green boil'd Pudding of sweet Herbs.
 To make a Pudding in haste.
@@ -529,11 +518,6 @@ Paste for made-Dishes in the Summer.
 Paste Royal for made Dishes.
 To make Paste for Lent for made Dishes.
 To make Puff-Paste divers ways.
-The First Way.
-The second way.
-The third way.
-The fourth way.
-The fifth way.
 A made Dish of Tongues otherways.
 Made Dish in Paste of two Rabits, with sweet liquor.
 A made Dish of Florentine, or a Partridge or Capon.
@@ -1524,318 +1508,318 @@ Wheat leach of cream.
 White-pot to make it. 
 Woodcocks boil'd. 
 Woodcocks roasted. 
-WHITE METHEGLIN OF MY LADY HUNGERFORD: WHICH IS EXCEEDINGLY PRAISED.
-SOME NOTES ABOUT HONEY.
-MR. CORSELLISES ANTWERP MEATH.
-TO MAKE EXCELLENT MEATHE.
-AN EXCELLENT WHITE MEATHE.
-THE COUNTESS OF BULLINGBROOK'S WHITE METHEGLIN.
-MR. WEBBES MEATH.
-MY OWN CONSIDERATIONS FOR MAKING OF MEATHE.
-SACK WITH CLOVE-GILLY FLOWERS.
-METHEGLIN COMPOSED BY MY SELF OUT OF SUNDRY RECEIPTS.
-MY LADY COWERS WHITE MEATHE USED AT SALISBURY.
-SIR THOMAS GOWER'S METHEGLIN FOR HEALTH.
-METHEGLIN FOR TASTE AND COLOUR.
-AN EXCELLENT WAY OF MAKING WHITE METHEGLIN.
-ANOTHER WAY OF MAKING WHITE METHEGLIN.
-ANOTHER WAY.
-TO MAKE WHITE METHEGLIN.
-STRONG MEAD.
-MY LORD HOLLIS HYDROMEL.
-HYDROMEL AS I MADE IT WEAK FOR THE QUEEN MOTHER.
-SEVERAL WAYS OF MAKING METHEGLIN.
-MY LADY MORICES MEATH.
-MY LADY MORICE HER SISTER MAKES HER'S THUS.:
-TO MAKE WHITE MEATH.
-SIR WILLIAM PASTON'S MEATHE.
-ANOTHER PLEASANT MEATHE OF SIR WILLIAM PASTON'S.
-ANOTHER WAY OF MAKING MEATH.
-SIR BAYNAM THROCKMORTON'S MEATHE.
-TO MAKE WHITE METHEGLIN.
-MY LADY BELLASSISES MEATH.
-ANOTHER METHEGLIN.
-MR. PIERCE'S EXCELLENT WHITE METHEGLIN.
-AN EXCELLENT WAY TO MAKE METHEGLIN, CALLED THE LIQUOR OF LIFE, WITH THESE.
-FOLLOWING INGREDIENTS.
-TO MAKE GOOD METHEGLIN.
-TO MAKE WHITE METHEGLIN OF SIR JOHN FORTESCUE.
-MY LORD GORGE HIS MEATHE.
-THE LADY VERNON'S WHITE METHEGLIN.
-SEVERAL SORTS OF MEATH, SMALL AND STRONG.
-TO MAKE MEATH.
-SIR JOHN ARUNDEL'S WHITE MEATH.
-TO MAKE METHEGLIN.
-TO MAKE WHITE MEATH.
-TO MAKE A MEATH GOOD FOR THE LIVER AND LUNGS.
-TO MAKE WHITE METHEGLIN.
-TO MAKE WHITE METHEGLIN.
-TO MAKE WHITE METHEGLIN OF THE COUNTESS OF DORSET.
-ANOTHER WAY TO MAKE WHITE METHEGLIN.
-ANOTHER TO MAKE MEATH.
-ANOTHER RECIPE.
-TO MAKE METHEGLIN.
-ANOTHER SORT OF METHEGLIN.
-MY LORD HERBERT'S MEATH.
-ANOTHER WHITE MEATH.
-TO MAKE METHEGLIN.
-TO MAKE SMALL METHEGLIN.
-TO MAKE METHEGLIN.
-AN EXCELLENT METHEGLIN.
-TO MAKE WHITE MEATHE.
-ANOTHER TO MAKE MEATHE.
-ANOTHER VERY GOOD WHITE MEATH.
-TO MAKE WHITE METHEGLIN.
-TO MAKE WHITE MEATH.
-TO MAKE METHEGLIN.
-ANOTHER SORT OF MEATH.
-TO MAKE VERY GOOD METHEGLIN.
-TO MAKE MEATH.
-TO MAKE WHITE MEATH.
-TO MAKE SMALL WHITE MEATH.
-TO MAKE METHEGLIN.
-MEATH FROM THE MUSCOVIAN AMBASSADOUR'S STEWARD.
-TO MAKE MEATH.
-TO MAKE METHEGLIN.
-TO MAKE HONEY DRINK.
-THE EARL OF DENBIGH'S METHEGLIN.
-TO MAKE MEATH.
-TO MAKE METHEGLIN.
-ANOTHER MEATH.
-ANOTHER.
-ANOTHER.
-ANOTHER RECEIPT.
-TO MAKE METHEGLIN THAT LOOKS LIKE WHITE-WINE.
-TO MAKE WHITE METHEGLIN.
-TO MAKE A SMALL METHEGLIN.
-TO MAKE MEATH.
-METHEGLIN OR SWEET DRINK OF MY LADY STUART.
-ANOTHER OF THE SAME LADY.
-TO MAKE METHEGLIN.
-MEATH WITH RAISINS.
-MORELLO WINE.
-CURRANTS-WINE.
-SCOTCH ALE FROM MY LADY HOLMBEY.
-TO MAKE ALE DRINK QUICK.
-TO MAKE CIDER.
-SIR PAUL NEALE'S WAY OF MAKING CIDER.
-DOCTOR HARVEY'S PLEASANT WATER-CIDER, WHEREOF HE USED TO DRINK MUCH, MAKING.
-IT HIS ORDINARY DRINK.
-ALE WITH HONEY.
-SMALL ALE FOR THE STONE.
-APPLE DRINK WITH SUGAR, HONEY, &c.
-TO MAKE STEPPONI.
-WEAK HONEY-DRINK.
-MR. WEBB'S ALE AND BRAGOT.
-THE COUNTESS OF NEWPORT'S CHERRY WINE.
-STRAWBERRY WINE.
-TO MAKE WINE OF CHERRIES ALONE.
-OF COOKERY.
-TO MAKE A SACK POSSET.
-ANOTHER.
-MY LORD OF CARLILE'S SACK-POSSET.
-AN EXCELLENT SPANISH CREAM.
-ANOTHER CLOUTED CREAM.
-MY LORD OF S. ALBAN'S CRESME FOUETTEE.
-TO MAKE THE CREAM CURDS.
-TO MAKE CLOUTED CREAM.
-TO MAKE A WHIP SYLLABUB.
-TO MAKE A PLAIN SYLLABUB.
-CONCERNING POTAGES.
-PLAIN SAVOURY ENGLISH POTAGE.
-POTAGE DE BLANC DE CHAPON.
-TO MAKE SPINAGE-BROTH.
-ORDINARY POTAGE.
-BARLEY POTAGE.
-STEWED BROTH.
-AN ENGLISH POTAGE.
-ANOTHER POTAGE.
-PORTUGAL BROTH, AS IT WAS MADE FOR THE QUEEN.
-NOURISSANT POTAGE DE SANTÉ.
-POTAGE DE SANTÉ.
-POTAGE DE SANTÉ.
-POTAGE DE SANTÉ.
-TEA WITH EGGS.
-NOURISHING BROTH.
-GOOD NOURISHING POTAGE.
-WHEATEN FLOMMERY.
-PAP OF OAT-MEAL.
-PANADO.
-BARLEY PAP.
-OAT-MEAL PAP. SIR JOHN COLLADON.
-RICE AND ORGE MONDÉ.
-SMALLAGE GRUEL.
-ABOUT WATER GRUEL.
-AN EXCELLENT AND WHOLESOME WATER-GRUEL WITH WOOD-SORREL AND CURRANTS.
-THE QUEENS BARLEY-CREAM.
-PRESSIS NOURISSANT.
-BROTH AND POTAGE.
-PAN COTTO.
-MY LORD LUMLEY'S PEASE-PORAGE.
-BROTH FOR SICK AND CONVALESCENT PERSONS.
-AN EXCELLENT POSSET.
-PEASE OF THE SEEDY BUDS OF TULIPS.
-BOILED RICE DRY.
-MARROW SOPS WITH WINE.
-CAPON IN WHITE-BROTH.
-TO BUTTER EGGS WITH CREAM.
-TO MAKE COCK-ALE.
-TO MAKE PLAGUE-WATER.
-ANOTHER PLAGUE-WATER.
-TO MAKE RASBERY-WINE.
-TO KEEP QUINCE ALL THE YEAR GOOD.
-TO MAKE A WHITE-POT.
-TO MAKE AN HOTCHPOT.
-ANOTHER HOTCHPOT.
-TO STEW BEEF.
-ANOTHER TO STEW BEEF.
-TO STEW A BREAST OF VEAL.
-SAUCE OF HORSE RADISH.
-THE QUEENS HOTCHPOT FROM HER ESCUYER DE CUISINE, MR. LA MONTAGUE.
-AN EXCELLENT BAKED PUDDING.
-MY LADY OF PORTLAND'S MINCED PYES.
-ANOTHER WAY OF MAKING EXCELLENT MINCED PYES OF MY LADY PORTLANDS.
-MINCED PYES.
-TO ROST FINE MEAT.
-SAVOURY COLLOPS OF VEAL.
-EXCELLENT MARROW-SPINAGE-PASTIES.
-TO PICKLE CAPONS MY LADY PORTLAND'S WAY.
-VERY GOOD SAUCE FOR PARTRIDGES OR CHICKEN.
-TO MAKE MINCED PYES.
-TO MAKE A FRENCH BARLEY POSSET.
-TO MAKE PUFF-PAST.
-TO MAKE A PUDDING WITH PUFF-PAST.
-TO MAKE PEAR-PUDDINGS.
-MARROW-PUDDINGS.
-TO MAKE RED DEAR.
-TO MAKE A SHOULDER OF MUTTON LIKE VENISON.
-TO STEW A RUMP OF BEEF.
-TO BOIL SMOAKED FLESH.
-VUOVA LATTATE.
-VUOVA SPERSA.
-TO MAKE EXCELLENT BLACK-PUDDINGS.
-TO MAKE AN EXCELLENT PUDDING.
-SCOTCH COLLOPS.
-TO ROST WILD-BOAR.
-PYES.
-BAKED VENISON.
-AN EXCELLENT WAY OF MAKING MUTTON STEAKS.
-EXCELLENT GOOD COLLOPS.
-BLACK PUDDINGS.
-TO MAKE PITH PUDDINGS.
-RED-HERRINGS BROYLED.
-AN OAT-MEAL-PUDDING.
-TO MAKE PEAR-PUDDINGS.
-TO MAKE CALL-PUDDINGS.
-TO MAKE A BAKED OATMEAL-PUDDING.
-ANOTHER BAKED PUDDING.
-TO MAKE BLACK PUDDINGS.
-TO PRESERVE PIPPINS IN JELLY, EITHER IN QUARTERS, OR IN SLICES.
-MY LADY DIANA PORTER'S SCOTCH COLLOPS.
-TO STEW OYSTERS.
-TO DRESS LAMPREY'S.
-TO DRESS STOCK FISH, SOMEWHAT DIFFERINGLY FROM THE WAY OF HOLLAND.
-BUTTERED WHITINGS WITH EGGS.
-TO DRESS POOR-JOHN AND BUCKORN.
-THE WAY OF DRESSING STOCK-FISH IN HOLLAND.
-ANOTHER WAY TO DRESS STOCK-FISH.
-TO DRESS PARSNEPS.
-CREAM WITH RICE.
-GREWEL OF OAT-MEAL AND RICE.
-SAUCE FOR A CARP OR PIKE. TO BUTTER PEASE.
-BUTTER AND OIL TO FRY FISH.
-TO PREPARE SHRIMPS FOR DRESSING.
-TOSTS OF VEAL.
-TO MAKE MUSTARD.
-TO MAKE A WHITE-POT.
-FOR ROSTING OF MEAT.
-TO STEW A RUMP OF BEEF.
-TO STEW A RUMP OF BEEF.
-PICKLED CHAMPIGNONS.
-TO STEW WARDENS OR PEARS.
-TO STEW APPLES.
-PORTUGUEZ EGGS.
-TO BOIL EGGS.
-TO MAKE CLEAR GELLY OF BRAN.
-TO BAKE VENISON.
-TO BAKE VENISON TO KEEP.
-ABOUT MAKING OF BRAWN.
-SALLET OF COLD CAPON ROSTED.
-MUTTON BAKED LIKE VENISON, SOAKING EITHER IN THEIR BLOOD.
-TO MAKE AN EXCELLENT HARE-PYE.
-TO BAKE BEEF.
-TO BAKE PIDGEONS, (WHICH ARE THUS EXCELLENT, AND WILL KEEP A QUARTER OF A YEAR) OR TEALS, OR WILD-DUCKS.
-GREEN-GEESE-PYE.
-TO BOIL BEEF OR VENISON TENDER AND SAVOURY.
-TO BAKE WILDE-DUCKS OR TEALS.
-TO SEASON HUMBLE-PYES: AND TO ROST WILDE-DUCKS.
-TO SOUCE TURKEYS.
-AN EXCELLENT MEAT OF GOOSE OR TURKEY.
-TO PICKLE AN OLD FAT GOOSE.
-ABOUT ORDERING BACON FOR GAMBONS, AND TO KEEP.
-TO MAKE A TANSEY.
-ANOTHER WAY.
-TO MAKE CHEESE-CAKES.
-SHORT AND CRISP CRUST FOR TARTS AND PYES.
-TO MAKE A CAKE.
-ANOTHER CAKE.
-TO MAKE A PLUMB-CAKE.
-TO MAKE AN EXCELLENT CAKE.
-TO MAKE BISKET.
-TO MAKE A CARAWAY-CAKE.
-ANOTHER VERY GOOD CAKE.
-EXCELLENT SMALL CAKES.
-MY LORD OF DENBIGH'S ALMOND MARCH-PANE.
-TO MAKE SLIPP COAT CHEESE.
-TO MAKE SLIPP-COAT-CHEESE.
-SLIPP-COAT CHEESE.
-TO MAKE A SCALDED CHEESE.
-THE CREAM-COURDS.
-SAVOURY TOSTED OR MELTED CHEESE.
-TO FEED CHICKEN.
-TO FEED POULTRY.
-ANOTHER WAY OF FEEDING CHICKEN.
-TO FATTEN YOUNG CHICKENS IN A WONDERFULL DEGREE.
-TO FEED CHICKEN.
-ANOTHER EXCELLENT WAY TO FATTEN CHICKEN.
-AN EXCELLENT WAY TO CRAM CHICKEN.
-TO FEED PARTRIDGES THAT YOU HAVE TAKEN WILDE.
-TO MAKE PUFFS.
-APPLES IN GELLY.
-SYRUP OF PIPPINS.
-GELLY OF PIPPINS OR JOHN-APPLES.
-PRESERVED WARDENS.
-SWEET MEAT OF APPLES.
-PLEASANT CORDIAL TABLETS, WHICH ARE VERY COMFORTING, AND STRENGTHEN NATURE.
-MUCH.
-TO MAKE HARTS-HORN GELLY.
-HARTS-HORN GELLY.
-TO MAKE HARTS-HORN GELLY.
-ANOTHER WAY TO MAKE HARTS-HORN-GELLY.
-MARMULATE OF PIPPINS.
-GELLY OF QUINCES.
-PRESERVED QUINCE WITH GELLY.
-TO MAKE FINE WHITE GELLY OF QUINCES.
-WHITE MARMULATE, THE QUEENS WAY.
-MY LADY OF BATH'S WAY.
-PASTE OF QUINCES.
-PASTE OF QUINCES WITH VERY LITTLE SUGAR.
-ANOTHER PASTE OF QUINCES.
-MARMULATE OF CHERRIES.
-MARMULATE OF CHERRIES WITH JUYCE OF RASPES AND CURRANTS.
-TO MAKE AN EXCELLENT SYRUP OF APPLES.
-SWEET-MEATS OF MY LADY WINDEBANKS.
-GELLY OF RED CURRANTS.
-GELLY OF CURRANTS, WITH THE FRUIT WHOLE IN IT.
-MARMULATE OF RED CURRANTS.
-SUCKET OF MALLOW STALKS.
-CONSERVE OF RED ROSES.
-ANOTHER CONSERVE OF ROSES.
-THE TABLE.
-APPENDIX I.
-SOME ADDITIONAL RECEIPTS.
-THE VERTUES OF THE PRECEDENT WATER.
-A RECEIPT FOR MAKING OF MEATH.
+White Metheglin Of My Lady Hungerford: Which Is Exceedingly Praised.
+Some Notes About Honey.
+Mr. Corsellises Antwerp Meath.
+To Make Excellent Meathe.
+An Excellent White Meathe.
+The Countess Of Bullingbrook's White Metheglin.
+Mr. Webbes Meath.
+My Own Considerations For Making Of Meathe.
+Sack With Clove-gilly Flowers.
+Metheglin Composed By My Self Out Of Sundry Receipts.
+My Lady Cowers White Meathe Used At Salisbury.
+Sir Thomas Gower's Metheglin For Health.
+Metheglin For Taste And Colour.
+An Excellent Way Of Making White Metheglin.
+Another Way Of Making White Metheglin.
+Another Way.
+To Make White Metheglin.
+Strong Mead.
+My Lord Hollis Hydromel.
+Hydromel As I Made It Weak For The Queen Mother.
+Several Ways Of Making Metheglin.
+My Lady Morices Meath.
+My Lady Morice Her Sister Makes Her's Thus.:
+To Make White Meath.
+Sir William Paston's Meathe.
+Another Pleasant Meathe Of Sir William Paston's.
+Another Way Of Making Meath.
+Sir Baynam Throckmorton's Meathe.
+To Make White Metheglin.
+My Lady Bellassises Meath.
+Another Metheglin.
+Mr. Pierce's Excellent White Metheglin.
+An Excellent Way To Make Metheglin, Called The Liquor Of Life, With These.
+Following Ingredients.
+To Make Good Metheglin.
+To Make White Metheglin Of Sir John Fortescue.
+My Lord Gorge His Meathe.
+The Lady Vernon's White Metheglin.
+Several Sorts Of Meath, Small And Strong.
+To Make Meath.
+Sir John Arundel's White Meath.
+To Make Metheglin.
+To Make White Meath.
+To Make A Meath Good For The Liver And Lungs.
+To Make White Metheglin.
+To Make White Metheglin.
+To Make White Metheglin Of The Countess Of Dorset.
+Another Way To Make White Metheglin.
+Another To Make Meath.
+Another Recipe.
+To Make Metheglin.
+Another Sort Of Metheglin.
+My Lord Herbert's Meath.
+Another White Meath.
+To Make Metheglin.
+To Make Small Metheglin.
+To Make Metheglin.
+An Excellent Metheglin.
+To Make White Meathe.
+Another To Make Meathe.
+Another Very Good White Meath.
+To Make White Metheglin.
+To Make White Meath.
+To Make Metheglin.
+Another Sort Of Meath.
+To Make Very Good Metheglin.
+To Make Meath.
+To Make White Meath.
+To Make Small White Meath.
+To Make Metheglin.
+Meath From The Muscovian Ambassadour's Steward.
+To Make Meath.
+To Make Metheglin.
+To Make Honey Drink.
+The Earl Of Denbigh's Metheglin.
+To Make Meath.
+To Make Metheglin.
+Another Meath.
+Another.
+Another.
+Another Receipt.
+To Make Metheglin That Looks Like White-wine.
+To Make White Metheglin.
+To Make A Small Metheglin.
+To Make Meath.
+Metheglin Or Sweet Drink Of My Lady Stuart.
+Another Of The Same Lady.
+To Make Metheglin.
+Meath With Raisins.
+Morello Wine.
+Currants-wine.
+Scotch Ale From My Lady Holmbey.
+To Make Ale Drink Quick.
+To Make Cider.
+Sir Paul Neale's Way Of Making Cider.
+Doctor Harvey's Pleasant Water-cider, Whereof He Used To Drink Much, Making.
+It His Ordinary Drink.
+Ale With Honey.
+Small Ale For The Stone.
+Apple Drink With Sugar, Honey, &c.
+To Make Stepponi.
+Weak Honey-drink.
+Mr. Webb's Ale And Bragot.
+The Countess Of Newport's Cherry Wine.
+Strawberry Wine.
+To Make Wine Of Cherries Alone.
+Of Cookery.
+To Make A Sack Posset.
+Another.
+My Lord Of Carlile's Sack-posset.
+An Excellent Spanish Cream.
+Another Clouted Cream.
+My Lord Of S. Alban's Cresme Fouettee.
+To Make The Cream Curds.
+To Make Clouted Cream.
+To Make A Whip Syllabub.
+To Make A Plain Syllabub.
+Concerning Potages.
+Plain Savoury English Potage.
+Potage De Blanc De Chapon.
+To Make Spinage-broth.
+Ordinary Potage.
+Barley Potage.
+Stewed Broth.
+An English Potage.
+Another Potage.
+Portugal Broth, As It Was Made For The Queen.
+Nourissant Potage De Santé.
+Potage De Santé.
+Potage De Santé.
+Potage De Santé.
+Tea With Eggs.
+Nourishing Broth.
+Good Nourishing Potage.
+Wheaten Flommery.
+Pap Of Oat-meal.
+Panado.
+Barley Pap.
+Oat-meal Pap. Sir John Colladon.
+Rice And Orge Mondé.
+Smallage Gruel.
+About Water Gruel.
+An Excellent And Wholesome Water-gruel With Wood-sorrel And Currants.
+The Queens Barley-cream.
+Pressis Nourissant.
+Broth And Potage.
+Pan Cotto.
+My Lord Lumley's Pease-porage.
+Broth For Sick And Convalescent Persons.
+An Excellent Posset.
+Pease Of The Seedy Buds Of Tulips.
+Boiled Rice Dry.
+Marrow Sops With Wine.
+Capon In White-broth.
+To Butter Eggs With Cream.
+To Make Cock-ale.
+To Make Plague-water.
+Another Plague-water.
+To Make Rasbery-wine.
+To Keep Quince All The Year Good.
+To Make A White-pot.
+To Make An Hotchpot.
+Another Hotchpot.
+To Stew Beef.
+Another To Stew Beef.
+To Stew A Breast Of Veal.
+Sauce Of Horse Radish.
+The Queens Hotchpot From Her Escuyer De Cuisine, Mr. La Montague.
+An Excellent Baked Pudding.
+My Lady Of Portland's Minced Pyes.
+Another Way Of Making Excellent Minced Pyes Of My Lady Portlands.
+Minced Pyes.
+To Rost Fine Meat.
+Savoury Collops Of Veal.
+Excellent Marrow-spinage-pasties.
+To Pickle Capons My Lady Portland's Way.
+Very Good Sauce For Partridges Or Chicken.
+To Make Minced Pyes.
+To Make A French Barley Posset.
+To Make Puff-past.
+To Make A Pudding With Puff-past.
+To Make Pear-puddings.
+Marrow-puddings.
+To Make Red Dear.
+To Make A Shoulder Of Mutton Like Venison.
+To Stew A Rump Of Beef.
+To Boil Smoaked Flesh.
+Vuova Lattate.
+Vuova Spersa.
+To Make Excellent Black-puddings.
+To Make An Excellent Pudding.
+Scotch Collops.
+To Rost Wild-boar.
+Pyes.
+Baked Venison.
+An Excellent Way Of Making Mutton Steaks.
+Excellent Good Collops.
+Black Puddings.
+To Make Pith Puddings.
+Red-herrings Broyled.
+An Oat-meal-pudding.
+To Make Pear-puddings.
+To Make Call-puddings.
+To Make A Baked Oatmeal-pudding.
+Another Baked Pudding.
+To Make Black Puddings.
+To Preserve Pippins In Jelly, Either In Quarters, Or In Slices.
+My Lady Diana Porter's Scotch Collops.
+To Stew Oysters.
+To Dress Lamprey's.
+To Dress Stock Fish, Somewhat Differingly From The Way Of Holland.
+Buttered Whitings With Eggs.
+To Dress Poor-john And Buckorn.
+The Way Of Dressing Stock-fish In Holland.
+Another Way To Dress Stock-fish.
+To Dress Parsneps.
+Cream With Rice.
+Grewel Of Oat-meal And Rice.
+Sauce For A Carp Or Pike. To Butter Pease.
+Butter And Oil To Fry Fish.
+To Prepare Shrimps For Dressing.
+Tosts Of Veal.
+To Make Mustard.
+To Make A White-pot.
+For Rosting Of Meat.
+To Stew A Rump Of Beef.
+To Stew A Rump Of Beef.
+Pickled Champignons.
+To Stew Wardens Or Pears.
+To Stew Apples.
+Portuguez Eggs.
+To Boil Eggs.
+To Make Clear Gelly Of Bran.
+To Bake Venison.
+To Bake Venison To Keep.
+About Making Of Brawn.
+Sallet Of Cold Capon Rosted.
+Mutton Baked Like Venison, Soaking Either In Their Blood.
+To Make An Excellent Hare-pye.
+To Bake Beef.
+to Bake Pidgeons, (which Are Thus Excellent, And Will Keep A Quarter Of A Year) or Teals, Or Wild-ducks.
+Green-geese-pye.
+To Boil Beef Or Venison Tender And Savoury.
+To Bake Wilde-ducks Or Teals.
+To Season Humble-pyes: And To Rost Wilde-ducks.
+To Souce Turkeys.
+An Excellent Meat Of Goose Or Turkey.
+To Pickle An Old Fat Goose.
+About Ordering Bacon For Gambons, And To Keep.
+To Make A Tansey.
+Another Way.
+To Make Cheese-cakes.
+Short And Crisp Crust For Tarts And Pyes.
+To Make A Cake.
+Another Cake.
+To Make A Plumb-cake.
+To Make An Excellent Cake.
+To Make Bisket.
+To Make A Caraway-cake.
+Another Very Good Cake.
+Excellent Small Cakes.
+My Lord Of Denbigh's Almond March-pane.
+To Make Slipp Coat Cheese.
+To Make Slipp-coat-cheese.
+Slipp-coat Cheese.
+To Make A Scalded Cheese.
+The Cream-courds.
+Savoury Tosted Or Melted Cheese.
+To Feed Chicken.
+To Feed Poultry.
+Another Way Of Feeding Chicken.
+To Fatten Young Chickens In A Wonderfull Degree.
+To Feed Chicken.
+Another Excellent Way To Fatten Chicken.
+An Excellent Way To Cram Chicken.
+To Feed Partridges That You Have Taken Wilde.
+To Make Puffs.
+Apples In Gelly.
+Syrup Of Pippins.
+Gelly Of Pippins Or John-apples.
+Preserved Wardens.
+Sweet Meat Of Apples.
+Pleasant Cordial Tablets, Which Are Very Comforting, And Strengthen Nature.
+Much.
+To Make Harts-horn Gelly.
+Harts-horn Gelly.
+To Make Harts-horn Gelly.
+Another Way To Make Harts-horn-gelly.
+Marmulate Of Pippins.
+Gelly Of Quinces.
+Preserved Quince With Gelly.
+To Make Fine White Gelly Of Quinces.
+White Marmulate, The Queens Way.
+My Lady Of Bath's Way.
+Paste Of Quinces.
+Paste Of Quinces With Very Little Sugar.
+Another Paste Of Quinces.
+Marmulate Of Cherries.
+Marmulate Of Cherries With Juyce Of Raspes And Currants.
+To Make An Excellent Syrup Of Apples.
+Sweet-meats Of My Lady Windebanks.
+Gelly Of Red Currants.
+Gelly Of Currants, With The Fruit Whole In It.
+Marmulate Of Red Currants.
+Sucket Of Mallow Stalks.
+Conserve Of Red Roses.
+Another Conserve Of Roses.
+The Table.
+Appendix I.
+Some Additional Receipts.
+The Vertues Of The Precedent Water.
+A Receipt For Making Of Meath.
 To dry Angelica. 
 To preserve green Apricocks.
 To make Goosberry Clear-Cakes.
