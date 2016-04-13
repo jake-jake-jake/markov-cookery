@@ -4,6 +4,14 @@
     <div class=illus><img src="{{pic}}"></div>
     <h2 class=title> {{ title }} </h2>
     <p> {{ recipe }}</p>
+    <p>
+        <form action="/save" method="post">
+            <input type="hidden" name="img_url" type="text" value="{{ pic }}">
+            <input type="hidden" name="title" type="text" value="{{ title }}">
+            <input type="hidden" name="recipe" type="text" value="{{ recipe }}">
+            <input type="submit" value="Get URL">
+        </form>
+</p>
   </div>
 {% endblock %}
 
