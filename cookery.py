@@ -18,7 +18,6 @@ from flask_sqlalchemy import SQLAlchemy
 # configuration
 # DATABASE = '/tmp/flaskr.db'
 DEBUG = True
-print(environ['MYTESTVAR'])
 SECRET_KEY = environ['SECRET_KEY']
 USERNAME = environ['USERNAME']
 PASSWORD = environ['PASSWORD']
