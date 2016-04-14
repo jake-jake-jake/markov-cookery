@@ -1,9 +1,9 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 
 # std lib
 from contextlib import closing
-from os import path, listdir, getcwd
 import json
+from os import path, listdir, environ
 import random
 from string import punctuation
 
@@ -18,9 +18,10 @@ from flask_sqlalchemy import SQLAlchemy
 # configuration
 # DATABASE = '/tmp/flaskr.db'
 DEBUG = True
-SECRET_KEY = 'development key'
-USERNAME = 'admin'
-PASSWORD = 'default'
+print(environ['MYTESTVAR'])
+SECRET_KEY = environ['SECRET_KEY']
+USERNAME = environ['USERNAME']
+PASSWORD = environ['PASSWORD']
 BRITISH_LIB_UID = '12403504@N02'
 SQLALCHEMY_DATABASE_URI = 'sqlite+pysqlite:///test.db'
 
@@ -56,10 +57,10 @@ def img_url(filename): pass
 
 
 # Flickr functions (for getting images)
-def get_secret(setting, json_obj):
+def get_secret(setting):
     ''' Return secret value from loaded JSON file.'''
     try:
-        return json_obj[setting]
+        return environ[setting]
     except KeyError:
         error_message = 'Unable to load {} variable.'.format(setting)
         raise AttributeError(error_message)
@@ -67,10 +68,8 @@ def get_secret(setting, json_obj):
 
 def make_flickr_api(secrets_filename, format='json'):
     ''' Return instance of FlickrAPI using credentials from secrets file.'''
-    with open(secrets_filename) as f:
-        secrets = json.loads(f.read())
-    flickr_api_key = get_secret('flickr_api_key', secrets)
-    flickr_api_secret = get_secret('flicker_api_secret', secrets)
+    flickr_api_key = environ['FLICKR_API_KEY']
+    flickr_api_secret = environ['FLICKR_API_SECRET']
     return flickrapi.FlickrAPI(flickr_api_key, flickr_api_secret,
                                format=format)
 
@@ -82,7 +81,9 @@ def get_img_url(flickr_api, tag=''):
     resp = json.loads(str(resp, 'utf8'))
     print(resp)
     if resp['stat'] == 'ok' and resp['photos']['photo']:
-        photo = resp['photos']['photo'][0]
+        # get total number of photos and then mod that by 100
+        total = int(resp['photos']['total']) % 100
+        photo = resp['photos']['photo'][random.randrange(total)]
         photo_id, secret, owner = photo['id'], photo['secret'], photo['owner']
         farm, server = photo['farm'], photo['server']
         return 'https://farm{}.staticflickr.com/{}/{}_{}_c.jpg'.format(farm,
@@ -131,6 +132,4 @@ flickr = make_flickr_api('secrets.json')
 
 
 if __name__ == '__main__':
-    print('length of title dict:', len(titles.links))
-    print('length of recipe dict:', len(recipes.links))
     app.run()
