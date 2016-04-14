@@ -1,1 +1,1 @@
-web: python cookery.py
+web: python3 cookery.py
