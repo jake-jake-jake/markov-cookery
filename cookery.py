@@ -132,4 +132,4 @@ flickr = make_flickr_api('secrets.json')
 
 if __name__ == '__main__':
     port = int(environ.get('PORT', 5000))
-    app.run(port=port)
+    app.run(port=port, host='0.0.0.0')
