@@ -2,8 +2,9 @@
 
 # std lib
 from contextlib import closing
-from os import path
+from os import path, listdir, getcwd
 import json
+import random
 from string import punctuation
 
 # Markov Chain, flickrapi
@@ -24,7 +25,7 @@ BRITISH_LIB_UID = '12403504@N02'
 SQLALCHEMY_DATABASE_URI = 'sqlite+pysqlite:///test.db'
 
 # CREATE ZEE APPLICATION
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 app.config.from_object(__name__)
 db = SQLAlchemy(app)
 
@@ -32,7 +33,7 @@ db = SQLAlchemy(app)
 def make_recipe():
     title = titles.sentence()[:-1]
     recipe = ' '.join([recipes.sentence() for _ in range(3)])
-    pic = image_from_title(title)
+    pic = image_from_title(title) or get_default_img()
     return render_template('make_recipe.html', pic=pic, title=title, recipe=recipe)
 
 @app.route('/<int:id>')
@@ -49,6 +50,9 @@ def save_recipe():
     db.session.commit()
     return redirect('/' + str(recipe.id))
 
+
+@app.route('/images/<filename>')
+def img_url(filename): pass
 
 
 # Flickr functions (for getting images)
@@ -84,7 +88,12 @@ def get_img_url(flickr_api, tag=''):
         return 'https://farm{}.staticflickr.com/{}/{}_{}_c.jpg'.format(farm,
             server, photo_id, secret)
     else:
-        return False
+        return
+
+def get_default_img():
+    ''' If the Flickr query returns nothing good, choose a default image.'''
+    file_name = random.choice(listdir(path.join('static', 'images')))
+    return path.join('static', 'images', file_name)
 
 
 def image_from_title(title):
@@ -98,7 +107,7 @@ def image_from_title(title):
         if url:
             return url
     else:
-        return 'DEFAULT IMAGE'
+        return None
 
 
 class Recipe(db.Model):
