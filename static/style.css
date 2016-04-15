@@ -1,19 +1,18 @@
-body            { font-family: serif; background: gray; }
+body            { font-family: serif; background-image: url("lyonnette.png"); }
 a, h1, h2       { color: #cc0000; }
 h1, h2          { font-family: 'Alegreya', serif; margin: 0; }
 h2              { font-size: 1.2em; }
 p               { font-family: 'Gentium Book Basic'; }
 
-/*.title          { border-bottom: 2px solid #cc0000; }
-*/
 .title p        { font-size: 1em; color: black; margin-top: -0.1em; border-bottom: 1px solid black;  }
-.page           { margin: 2em auto; width: 35em; border: 5px solid black;
+.page           { margin: 2em auto; width: 35em; border: 1px solid black;
                   padding: 0.8em; background: white; }
 .recipe         { list-style: none; margin: 0; padding: 0; }
 .illus          { text-align: center;}
 .illus img      { max-width: 30em;}
-.recipe li      { margin: 0.8em 1.2em; }
-.recipe li h2   { margin-left: -1em; }
+.recipe p h2    { margin: 1.4em 1.2em; }
+.recipe p       { margin-top: 0.1em; line-height: 1.4em }
+.recipe form    { display: inline; text-align: center; }
 .add-entry      { font-size: 0.9em; border-bottom: 1px solid #ccc; }
 .add-entry dl   { font-weight: bold; }
 .metanav        { text-align: right; font-size: 0.8em; padding: 0.3em;
