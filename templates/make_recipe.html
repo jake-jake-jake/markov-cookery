@@ -9,9 +9,12 @@
             <input type="hidden" name="img_url" type="text" value="{{ pic }}">
             <input type="hidden" name="title" type="text" value="{{ title }}">
             <input type="hidden" name="recipe" type="text" value="{{ recipe }}">
-            <input type="submit" value="Get URL">
+            <input type="submit" value="Save recipe">
         </form>
-</p>
+        <form style="inline" action="/" method="get">
+            <input type="submit" value="Get a new one">
+        </form>
+    </p>
   </div>
 {% endblock %}
 
