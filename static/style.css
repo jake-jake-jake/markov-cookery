@@ -11,9 +11,4 @@ p               { font-family: 'Gentium Book Basic'; }
 .illus img      { max-width: 30em;}
 .recipe p h2    { margin: 1.4em 1.2em; }
 .recipe p       { margin-top: 0.1em; line-height: 1.4em }
-.recipe form    { display: inline; text-align: center; }
-.add-entry      { font-size: 0.9em; border-bottom: 1px solid #ccc; }
-.add-entry dl   { font-weight: bold; }
-.metanav        { text-align: right; font-size: 0.8em; padding: 0.3em;
-                  margin-bottom: 1em; background: #fafafa; }
-.error          { background: #f0d6d6; padding: 0.5em; }
+.recipe form    { display: inline; }
