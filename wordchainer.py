@@ -29,6 +29,8 @@ class WordChainer:
     ''' Class for constructing a Markov chain from text files. '''
     def __init__(self):
         self.links = dict()
+        self.start_tokens = set()
+        self.starts = []
 
     @staticmethod
     def _open_file(filename):
@@ -56,18 +58,20 @@ class WordChainer:
 
     def _get_token(self):
         ''' Choose word at random; if it is a sentence ender, rechoose.'''
-        token = random.choice([token for token in self.links.keys()])
-        if not token[0][-1] == '.':
-            return token
-        else:
-            return self._get_token()
+        if not self.starts:
+            self.starts = list(self.start_tokens)
+        choice = random.choice(self.starts)
+        print(choice)
+        return choice
 
     def add_words(self, filename):
         ''' Make weighted Markov chain from text file.'''
         file_words = self._open_file(filename)
         successors = self._find_successors(file_words)
-        for word, successor in successors:
-            self._add_successor(word, successor)
+        for token, successor in successors:
+            if token[0][-1] == '.':
+                self.start_tokens.add((token[1], successor))
+            self._add_successor(token, successor)
 
     def words(self, length, token=None):
         ''' Return words from Markov chain, beginning at optional token'''
@@ -91,7 +95,11 @@ class WordChainer:
         ''' Return a sentence of length, with token. '''
         if not token:
             token = self._get_token()
-        sent = [' '.join(token).capitalize()]
+        first_words = ' '.join(token)
+        if first_words[-1] == '.':
+            return first_words
+
+        sent = [first_words]
         next_word = self.links[token].choose_successor()
         while not next_word[-1] == '.':
             token = token[1], next_word
@@ -99,6 +107,7 @@ class WordChainer:
             next_word = self.links[token].choose_successor()
         else:
             sent.append(next_word)
+            
         return ' '.join(sent)
 
 
