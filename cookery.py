@@ -59,6 +59,8 @@ def make_recipe():
 @app.route('/<int:id>')
 def saved_recipe(id):
     recipe = db.session.query(Recipe).get(id)
+    if not recipe:
+        return redirect('/')
     md5 = makehash(recipe.img_url, recipe.title, recipe.text)
     return render_template('make_recipe.html', pic=recipe.img_url,
                            title=recipe.title, recipe=recipe.text, md5=md5)
