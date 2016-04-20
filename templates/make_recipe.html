@@ -3,19 +3,19 @@
   <div class=recipe>
     <div class=illus><img src="{{pic}}"></div>
     <h2 class=title> {{ title }} </h2>
-    <p> {{ recipe }}</p>
-    <p>
-        <form action="/save" method="post">
+    <p> {{ recipe }} </p>
+    <div align=center>
+        <form class=recipe action="/save" method="post">
             <input type="hidden" name="img_url" type="text" value="{{pic}}">
             <input type="hidden" name="title" type="text" value="{{title}}">
             <input type="hidden" name="recipe" type="text" value="{{recipe}}">
             <input type="hidden" name="md5" type="text" value="{{md5}}">
             <input type="submit" value="Save recipe">
         </form>
-        <form style="inline" action="/" method="get">
+        <form class=recipe action="/" method="get">
             <input type="submit" value="Get a new one">
         </form>
-    </p>
+    </div>
   </div>
 {% endblock %}
 
