@@ -2174,7 +2174,7 @@ To cast all kinds of shapes, what you please, and to colour them.
 To dry Pears without Sugar.
 To make Rasberry Wine.
 To preserve Oranges in jelly.
-[Transcriber's note: so numbered in original] To make Cristal
+To make Cristal
 To make China-Broth.
 To make Court Perfumes.
 A Syrup for a Cold.
@@ -2294,7 +2294,7 @@ To make Paste of Pomewaters.
 To make Syrup of Rasberries, or of other Fruits, as Grapes or the
 To make a Caudle for a sick body both pleasant and comfortable.
 How to cover all kinds of Seeds, or little pieces of Spices, or
-[Transcriber's note: so numbered in original] To make a fine
+To make a fine
 A white Jelly with Almonds.
 To make sweet Cakes without Sugar.
 To keep Roses or Gilliflowers very long.
@@ -2522,7 +2522,7 @@ To boil a Capon.
 To boil a Capon with Rice.
 To boil a Capon with Pippins.
 To boil Chickens with Lettuce the very best way.
-[Transcriber's Note: so numbered in original] To boil a Rabbit
+To boil a Rabbit
 To boil a Rabbit with Claret Wine.
 To boil a wild Duck.
 To boil a tame Duck.
@@ -2535,7 +2535,7 @@ To smoor Veal.
 To smoor Steaks of Mutton another way.
 To smoor Chickens.
 To fry Museles, or Oysters, or Cockles to serve in with Meat, or
-[Transcriber's note: so numbered in original] To dress Calves
+To dress Calves
 To hash Neats tongues.
 Another way to hash Neats Tongues.
 To boil Chickens in white-broth.
@@ -3297,8 +3297,7 @@ Loin of Mutton stewed.
 Lark pie. 
 Lettuce pie. 
 Lampry pie. 
-Lenten Dish. 
- [Transcriber's note: heading omitted in original.] 
+Lenten Dish.  
 Metheglin. 
 Misers for Childrens Collation. 
 Minced Pies. 
