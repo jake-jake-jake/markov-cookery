@@ -42,10 +42,9 @@ class WordChainer:
     @staticmethod
     def _find_successors(word_list):
         ''' Yield successor for each word in list.'''
-        marks = '\[]_/'
         for i, word in enumerate(word_list):
             try:
-                yield (word, word_list[i+1]), word_list[i + 2]
+                yield (word, word_list[i + 1]), word_list[i + 2]
             except IndexError:
                 return
 
@@ -107,12 +106,12 @@ class WordChainer:
             next_word = self.links[token].choose_successor()
         else:
             sent.append(next_word)
-            
         return ' '.join(sent)
 
 
 recipes = WordChainer()
 titles = WordChainer()
+
 
 def main(debug=True):
     if debug:
