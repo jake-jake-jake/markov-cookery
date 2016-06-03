@@ -1,3 +1,3 @@
 # A Wholesome and Felicitous Guide to Cookery
 
-Elucidated and described by Marky Markov.
+[Elucidated and described](http://exquisitefish.herokuapp.com/) by Marky Markov.
