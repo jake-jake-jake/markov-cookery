@@ -13,13 +13,13 @@ class SuccessorDict(Counter):
         self.out_list = []
 
     def _make_out_list(self):
-        ''' Generate list of all successors.'''
+        ''' Generate list of all successors; each successor has an entry for each occurrence.'''
         self.count = sum(self.values())
         self.out_list = list(self.elements())
         return self
 
     def choose_successor(self):
-        ''' Choose next word by choosing random index of from list of self.elements().'''
+        ''' Choose next word by choosing random index of from self.out_list (a list of self.elements()).'''
         if not self.out_list:
             self._make_out_list()
         return self.out_list[random.randrange(self.count)]
@@ -41,7 +41,7 @@ class WordChainer:
 
     @staticmethod
     def _find_successors(word_list):
-        ''' Yield successor for each bigram in list.'''
+        ''' Yield successor for each bigram in word_list.'''
         for i, word in enumerate(word_list):
             try:
                 yield (word, word_list[i + 1]), word_list[i + 2]
@@ -56,7 +56,7 @@ class WordChainer:
         return self
 
     def _get_token(self):
-        ''' Choose token at random from self.starts.'''
+        ''' Choose token at random from self.starts, a list from set of bigrams that start sentences.'''
         if not self.starts:
             self.starts = list(self.start_tokens)
         choice = random.choice(self.starts)
