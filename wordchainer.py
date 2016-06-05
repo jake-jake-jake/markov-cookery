@@ -71,26 +71,7 @@ class WordChainer:
                 self.start_tokens.add((token[1], successor))
             self._add_successor(token, successor)
 
-    def words(self, length, token=None):
-        ''' Return words from Markov chain, beginning at optional token. 
-            NOTE: This method is busted after refactoring to make tokens bigrams.
-        '''
-        if not token:
-            token = self._get_token()
-        words = [' '.join(token).capitalize()]
-        try:
-            next_word = self.links[token].choose_successor()
-        except KeyError:
-            print('token not in chain. Leave blank for random word.')
-            return None
-        for _ in range(length):
-            words.append(next_word)
-            next_word = self.links[next_word].choose_successor()
-        words = ' '.join(words)
-        if words[-1] in string.punctuation:
-            words = words[:-1]
-        return words + '.'
-
+    
     def sentence(self, token=None):
         ''' Return a sentence of length, beginning with optional token. '''
         if not token:
