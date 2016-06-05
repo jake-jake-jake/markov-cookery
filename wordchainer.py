@@ -7,19 +7,19 @@ import string
 
 
 class SuccessorDict(Counter):
-    ''' Dictionary of successors following a word, with counts for weight.'''
+    ''' Dictionary of successors following a token, with counts for weight.'''
     def __init__(self):
         self.count = 0
         self.out_list = []
 
     def _make_out_list(self):
-        ''' Generate list of successors.'''
+        ''' Generate list of all successors.'''
         self.count = sum(self.values())
         self.out_list = list(self.elements())
         return self
 
     def choose_successor(self):
-        ''' Choose next word based on probabilities of input texts.'''
+        ''' Choose next word by choosing random index of from list of self.elements().'''
         if not self.out_list:
             self._make_out_list()
         return self.out_list[random.randrange(self.count)]
@@ -41,7 +41,7 @@ class WordChainer:
 
     @staticmethod
     def _find_successors(word_list):
-        ''' Yield successor for each word in list.'''
+        ''' Yield successor for each bigram in list.'''
         for i, word in enumerate(word_list):
             try:
                 yield (word, word_list[i + 1]), word_list[i + 2]
@@ -56,7 +56,7 @@ class WordChainer:
         return self
 
     def _get_token(self):
-        ''' Choose word at random; if it is a sentence ender, rechoose.'''
+        ''' Choose token at random from self.starts.'''
         if not self.starts:
             self.starts = list(self.start_tokens)
         choice = random.choice(self.starts)
@@ -73,7 +73,9 @@ class WordChainer:
             self._add_successor(token, successor)
 
     def words(self, length, token=None):
-        ''' Return words from Markov chain, beginning at optional token'''
+        ''' Return words from Markov chain, beginning at optional token. 
+            NOTE: This method is busted after refactoring to make tokens bigrams.
+        '''
         if not token:
             token = self._get_token()
         words = [' '.join(token).capitalize()]
@@ -91,7 +93,7 @@ class WordChainer:
         return words + '.'
 
     def sentence(self, token=None):
-        ''' Return a sentence of length, with token. '''
+        ''' Return a sentence of length, beginning with optional token. '''
         if not token:
             token = self._get_token()
         first_words = ' '.join(token)
