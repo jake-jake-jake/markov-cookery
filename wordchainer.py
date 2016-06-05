@@ -60,7 +60,6 @@ class WordChainer:
         if not self.starts:
             self.starts = list(self.start_tokens)
         choice = random.choice(self.starts)
-        print(choice)
         return choice
 
     def add_words(self, filename):
@@ -115,13 +114,12 @@ recipes = WordChainer()
 titles = WordChainer()
 
 
-def main(debug=True):
-    if debug:
-        p = path.join('texts', '1600s')
-        recipes.add_words(path.join(p, 'accomplisht_cook_STRIPPED.txt'))
-        recipes.add_words(path.join(p, 'closet_of_sir_digby_STRIPPED.txt'))
-        recipes.add_words(path.join(p, 'eales_receipts_STRIPPED.txt'))
-        titles.add_words(path.join(p, '1600s_titles.txt'))
+def main():
+    p = path.join('texts', '1600s')
+    recipes.add_words(path.join(p, 'accomplisht_cook_STRIPPED.txt'))
+    recipes.add_words(path.join(p, 'closet_of_sir_digby_STRIPPED.txt'))
+    recipes.add_words(path.join(p, 'eales_receipts_STRIPPED.txt'))
+    titles.add_words(path.join(p, '1600s_titles.txt'))
 
 
 if __name__ == '__main__':
